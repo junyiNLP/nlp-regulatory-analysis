@@ -27,7 +27,7 @@ stage1_training_5_single_label/     Alternative single-label model training
 test_model/                         Model testing and inference
 upstream_tasks/                     Data collection and web crawling
 docs/                               Project documentation
-figures/                            Workflow diagrams
+figures/                            Workflow diagrams and repository structure
 ```
 
 ## Documentation
