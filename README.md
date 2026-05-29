@@ -38,13 +38,6 @@ The `docs/` folder contains:
 * User Guide
 * Project Quick Summary
 
-## Requirements
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Author
 
