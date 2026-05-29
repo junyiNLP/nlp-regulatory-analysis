@@ -1,0 +1,37 @@
+{
+  "pillar_name": "Public Procurement",
+  "pillar_id": 2,
+  "keywords": [
+    "public procurement", "government procurement", "tender", "bidding", "contract award"
+  ],
+  "indicators": {
+    "2_1": {
+      "desc": "Foreign exclusions from public procurement related to ICT goods and digital services",
+      "keywords": [
+        "foreign exclusion", "domestic preference", "local content", "foreign supplier restriction"
+      ],
+      "negatives": []
+    },
+    "2_2": {
+      "desc": "Specific requirements on source codes, encryption and trade secrets",
+      "keywords": [
+        "source code disclosure", "encryption standard", "trade secret disclosure"
+      ],
+      "negatives": []
+    },
+    "2_3": {
+      "desc": "Limitations in procurement bidding",
+      "keywords": [
+        "procurement restriction", "limited tendering", "non-competitive procurement"
+      ],
+      "negatives": []
+    },
+    "2_4": {
+      "desc": "Not in the WTO Government Procurement Agreement (GPA)",
+      "keywords": [
+        "WTO GPA", "Government Procurement Agreement", "not a GPA signatory"
+      ],
+      "negatives": []
+    }
+  }
+}

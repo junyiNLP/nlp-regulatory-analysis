@@ -1,0 +1,68 @@
+{
+  "pillar_name": "Cross-border Data Policies",
+  "pillar_id": 6,
+  "keywords": [
+    "data localization", "cross-border data transfer", "data flow", "data adequacy",
+    "personal data export", "data processing requirement", "data storage",
+    "data sovereignty", "transfer restriction", "information flow", "data center requirement"
+  ],
+  "indicators": {
+    "6_1": {
+      "desc": "Ban and local processing requirements",
+      "keywords": [
+        "data localization requirement", "local processing", "processing within country",
+        "domestic processing requirement", "data cannot be processed abroad",
+        "ban on cross-border processing", "restriction on foreign processing",
+        "requirement to process data domestically"
+      ],
+      "negatives": [
+        "government data", "public sector data"
+      ]
+    },
+    "6_2": {
+      "desc": "Local storage requirements",
+      "keywords": [
+        "local storage", "data must be stored locally", "data storage requirement",
+        "storage within national borders", "data hosting requirement",
+        "data center within country", "server location requirement",
+        "data residency requirement", "local data center obligation"
+      ],
+      "negatives": [
+        "government data", "public sector data"
+      ]
+    },
+    "6_3": {
+      "desc": "Infrastructure requirements",
+      "keywords": [
+        "infrastructure requirement", "data infrastructure", "data center construction",
+        "ICT infrastructure requirement", "local data facility", "server installation requirement",
+        "local infrastructure obligation", "domestic infrastructure rule"
+      ],
+      "negatives": [
+        "government data", "public sector data"
+      ]
+    },
+    "6_4": {
+      "desc": "Conditional flow regimes",
+      "keywords": [
+        "conditional data flow", "cross-border transfer conditions",
+        "adequacy decision", "standard contractual clauses", "binding corporate rules",
+        "data transfer mechanism", "data export condition", "transfer authorization",
+        "data transfer restriction", "foreign jurisdiction adequacy"
+      ],
+      "negatives": [
+        "government data", "public sector data"
+      ]
+    },
+    "6_5": {
+      "desc": "Not in an agreement with binding commitments on data transfer",
+      "keywords": [
+        "data transfer agreement", "binding commitment on data flow",
+        "data transfer treaty", "international data transfer framework",
+        "data transfer adequacy agreement", "cross-border data transfer MoU",
+        "not party to data transfer agreement", "no adequacy arrangement"
+      ],
+      "negatives": []
+    }
+  }
+}

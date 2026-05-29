@@ -1,0 +1,53 @@
+{
+  "pillar_name": "Internet Intermediary Liability",
+  "pillar_id": 8,
+  "keywords": [
+    "intermediary liability", "safe harbour", "internet platform",
+    "service provider responsibility", "hosting provider", "user identification",
+    "monitoring obligation", "content moderation", "illegal content"
+  ],
+  "indicators": {
+    "8_1": {
+      "desc": "Lack of safe harbour for copyright infringements",
+      "keywords": [
+        "safe harbour", "copyright infringement", "hosting provider liability",
+        "ISP liability", "platform liability", "notice and takedown",
+        "copyright exemption", "online intermediary responsibility",
+        "liability for user content", "intellectual property violation"
+      ],
+      "negatives": [
+        "DMCA safe harbour", "copyright act exemption"
+      ]
+    },
+    "8_2": {
+      "desc": "Lack of safe harbour for other illegal activities",
+      "keywords": [
+        "safe harbour", "liability exemption", "illegal content responsibility",
+        "criminal liability of platform", "defamation liability",
+        "illegal activity by users", "no intermediary exemption",
+        "online platform responsibility", "hosting service provider liability"
+      ],
+      "negatives": []
+    },
+    "8_3": {
+      "desc": "User identity requirements",
+      "keywords": [
+        "user identification", "real-name registration", "ID verification",
+        "account authentication", "online anonymity ban",
+        "user verification requirement", "real identity requirement",
+        "subscriber identification", "traceability of users"
+      ],
+      "negatives": []
+    },
+    "8_4": {
+      "desc": "Monitoring requirements",
+      "keywords": [
+        "monitoring obligation", "content monitoring", "platform surveillance",
+        "active monitoring", "content filtering", "proactive monitoring",
+        "upload filter", "automated detection", "moderation requirement",
+        "duty to monitor", "illegal content prevention"
+      ],
+      "negatives": []
+    }
+  }
+}

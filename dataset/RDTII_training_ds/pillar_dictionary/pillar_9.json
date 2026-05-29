@@ -1,0 +1,58 @@
+{
+  "pillar_name": "Content Access",
+  "pillar_id": 9,
+  "keywords": [
+    "content access", "online content regulation", "website blocking",
+    "filtering", "internet shutdown", "content restriction",
+    "advertising regulation", "platform licensing", "social media regulation"
+  ],
+  "indicators": {
+    "9_1": {
+      "desc": "Blocking or filtering commercial web content",
+      "keywords": [
+        "website blocking", "content filtering", "URL blocking",
+        "domain blocking", "access restriction", "commercial web content restriction",
+        "online content filtering", "commercial site blocking", "e-commerce blocking",
+        "filtering of business websites", "blocking of commercial content"
+      ],
+      "negatives": [
+        "political content", "criminal content", "child pornography",
+        "defamation", "aged-restricted content", "non-commercial content"
+      ]
+    },
+    "9_2": {
+      "desc": "Internet shutdowns",
+      "keywords": [
+        "internet shutdown", "network disruption", "service suspension",
+        "internet suspension", "connectivity disruption", "broadband shutdown",
+        "mobile data shutdown", "communication blackout", "temporary network block"
+      ],
+      "negatives": []
+    },
+    "9_3": {
+      "desc": "Online advertising requirements",
+      "keywords": [
+        "online advertising regulation", "digital marketing rule",
+        "advertising compliance", "advertising requirement",
+        "online promotion restriction", "ad disclosure requirement",
+        "digital ad regulation"
+      ],
+      "negatives": [
+        "misleading advertising", "false advertising"
+      ]
+    },
+    "9_4": {
+      "desc": "Licensing requirements for online content providers and applications (social media platforms, new providers, VPN, cloud services, etc.)",
+      "keywords": [
+        "content provider license", "online platform license",
+        "social media licensing", "cloud service licensing", "VPN registration",
+        "online application authorization", "content provider registration",
+        "new provider license", "digital platform registration"
+      ],
+      "negatives": [
+        "telecommunication license", "telecom facilities license",
+        "e-commerce platform license"
+      ]
+    }
+  }
+}

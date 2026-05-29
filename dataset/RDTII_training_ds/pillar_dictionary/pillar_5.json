@@ -1,0 +1,78 @@
+{
+  "pillar_name": "Telecom Regulations and Competition",
+  "pillar_id": 5,
+  "keywords": [
+    "telecommunications", "telecom", "ICT infrastructure", "network operator",
+    "broadband", "spectrum", "mobile operator", "telecom regulation",
+    "licensing", "telecom competition", "telecom authority"
+  ],
+  "indicators": {
+    "5_1": {
+      "desc": "Lack of passive infrastructure sharing",
+      "keywords": [
+        "infrastructure sharing", "passive infrastructure", "tower sharing",
+        "duct sharing", "facility sharing", "co-location", "telecom infrastructure access",
+        "network sharing", "fiber sharing", "mast sharing"
+      ],
+      "negatives": [
+        "spectrum sharing", "active sharing agreement"
+      ]
+    },
+    "5_2": {
+      "desc": "Foreign equity limits in telecom sector",
+      "keywords": [
+        "foreign ownership limit", "foreign equity cap", "ownership restriction",
+        "foreign shareholding restriction", "telecom foreign investment limit",
+        "foreign investor restriction", "telecommunications FDI cap",
+        "equity ceiling in telecom", "foreign investment ceiling telecom"
+      ],
+      "negatives": []
+    },
+    "5_3": {
+      "desc": "Shares owned by the Government in telecom companies",
+      "keywords": [
+        "government ownership", "state-owned telecom", "public ownership telecom",
+        "state participation", "government shares", "public sector operator",
+        "government control telecom", "state monopoly"
+      ],
+      "negatives": []
+    },
+    "5_4": {
+      "desc": "Lack of functional/accounting separation",
+      "keywords": [
+        "functional separation", "accounting separation", "vertical integration",
+        "telecom operator separation", "independent accounts",
+        "separation of network and services", "regulatory separation"
+      ],
+      "negatives": []
+    },
+    "5_5": {
+      "desc": "Licensing requirements in telecom sector for operators with significant market power (SMP)",
+      "keywords": [
+        "licensing requirement", "license obligation", "telecom license",
+        "significant market power", "SMP operator", "dominant operator regulation",
+        "license condition", "market entry requirement", "telecom authorization"
+      ],
+      "negatives": []
+    },
+    "5_6": {
+      "desc": "Not in the WTO Telecom Reference Paper",
+      "keywords": [
+        "WTO Telecom Reference Paper", "Telecommunication Reference Paper",
+        "not signatory to Telecom Reference Paper", "not a member of WTO telecom commitments",
+        "telecom reference paper compliance", "GATS telecom commitments"
+      ],
+      "negatives": []
+    },
+    "5_7": {
+      "desc": "Lack of independent telecom authority",
+      "keywords": [
+        "independent telecom regulator", "telecom authority independence",
+        "regulatory independence", "independent regulatory body",
+        "telecom regulatory commission", "telecommunication regulatory authority",
+        "regulator under ministry", "lack of autonomy telecom regulator"
+      ],
+      "negatives": []
+    }
+  }
+}

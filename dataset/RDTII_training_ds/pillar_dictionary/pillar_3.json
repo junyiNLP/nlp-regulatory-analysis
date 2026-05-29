@@ -1,0 +1,64 @@
+{
+  "pillar_name": "Foreign Direct Investment",
+  "pillar_id": 3,
+  "keywords": [
+    "foreign investment", "foreign direct investment", "FDI", "equity participation",
+    "foreign equity cap", "ownership restriction", "joint venture", "foreign investor",
+    "screening of investment", "foreign acquisition", "commercial presence"
+  ],
+  "indicators": {
+    "3_1": {
+      "desc": "Foreign equity limits in sectors relevant to digital trade",
+      "keywords": [
+        "foreign equity cap", "foreign ownership limit", "equity ceiling",
+        "ownership restriction", "foreign shareholding restriction",
+        "sectoral cap", "equity participation limit", "foreign investment ceiling",
+        "foreign equity restriction", "foreign control limit"
+      ],
+      "negatives": [
+        "telecom sector", "e-commerce sector", "telecommunications", "online retail"
+      ]
+    },
+    "3_2": {
+      "desc": "Joint venture requirements",
+      "keywords": [
+        "joint venture", "local partner required", "domestic partner required",
+        "foreign-local partnership", "joint ownership requirement",
+        "foreign investor must form joint venture"
+      ],
+      "negatives": []
+    },
+    "3_3": {
+      "desc": "Nationality or residency requirements for board of directors or managers",
+      "keywords": [
+        "nationality requirement", "residency requirement", "local manager",
+        "citizenship requirement for directors", "board nationality restriction",
+        "management residency rule", "foreign director restriction"
+      ],
+      "negatives": []
+    },
+    "3_4": {
+      "desc": "Screening of investment and acquisitions",
+      "keywords": [
+        "foreign investment screening", "foreign acquisition screening",
+        "investment approval process", "foreign investment review",
+        "merger control", "foreign acquisition restriction",
+        "prior approval for foreign investment", "investment authorization",
+        "foreign takeover regulation"
+      ],
+      "negatives": [
+        "anti-trust", "competition law", "monopoly control", "M&A merger approval"
+      ]
+    },
+    "3_5": {
+      "desc": "Commercial presence requirements to offer cross-border services in digital trade sectors",
+      "keywords": [
+        "commercial presence requirement", "local establishment requirement",
+        "must establish locally", "foreign company registration",
+        "branch office requirement", "local incorporation requirement",
+        "cross-border service establishment", "commercial establishment restriction"
+      ],
+      "negatives": []
+    }
+  }
+}

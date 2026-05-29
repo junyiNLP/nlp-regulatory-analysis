@@ -1,0 +1,51 @@
+{
+  "pillar_name": "Non-technical Non-Tariff Measures (NTMs)",
+  "pillar_id": 10,
+  "keywords": [
+    "non-tariff measure", "import restriction", "export restriction",
+    "local content requirement", "import ban", "trade restriction",
+    "ICT goods", "online services", "trade barrier", "market access restriction"
+  ],
+  "indicators": {
+    "10_1": {
+      "desc": "Import ban applied to ICT goods and online services (e.g. network equipment, servers, handsets, applications, and data processing)",
+      "keywords": [
+        "import ban", "import prohibition", "ban on ICT goods",
+        "ban on online services", "import restriction on ICT equipment",
+        "prohibited import", "restricted import", "ban on network equipment",
+        "ban on data processing service import", "ban on applications import"
+      ],
+      "negatives": []
+    },
+    "10_2": {
+      "desc": "Other import restrictions on ICT goods and online services",
+      "keywords": [
+        "import restriction", "import licensing", "quota on imports",
+        "import authorization", "customs clearance restriction",
+        "non-tariff barrier", "non-automatic import licensing",
+        "import permit requirement", "import control on ICT goods"
+      ],
+      "negatives": []
+    },
+    "10_3": {
+      "desc": "Local content requirements",
+      "keywords": [
+        "local content requirement", "domestic content rule",
+        "local value addition", "domestic sourcing requirement",
+        "local production quota", "use of domestic components",
+        "manufacturing localization", "domestic input requirement"
+      ],
+      "negatives": []
+    },
+    "10_4": {
+      "desc": "Export restrictions on ICT goods and online services",
+      "keywords": [
+        "export restriction", "export control", "export ban",
+        "export licensing", "export permit", "export quota",
+        "ban on ICT exports", "export restriction on digital services",
+        "export authorization requirement", "controlled export"
+      ],
+      "negatives": []
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "pillar_name": "Standards and Procedures",
+  "pillar_id": 11,
+  "keywords": [
+    "technical standards", "product testing", "certification",
+    "compliance", "encryption standard", "ISO", "IEC", "ITU",
+    "product safety", "radio transmission", "testing procedure"
+  ],
+  "indicators": {
+    "11_1": {
+      "desc": "Lack of transparent technical standards",
+      "keywords": [
+        "technical standards", "standards transparency", "national standardization",
+        "lack of transparency", "non-transparent standard setting",
+        "closed standardization process", "domestic standards not published",
+        "standard disclosure limitation", "standard documentation restriction"
+      ],
+      "negatives": []
+    },
+    "11_2": {
+      "desc": "Self-certification limitations for product safety (radio transmissions, EMC/EMI)",
+      "keywords": [
+        "self-certification", "product certification", "conformity assessment",
+        "radio equipment certification", "product safety certification",
+        "EMC certification", "EMI testing", "radio transmission testing",
+        "certification limitation", "third-party certification requirement"
+      ],
+      "negatives": []
+    },
+    "11_3": {
+      "desc": "Product screening and testing requirements",
+      "keywords": [
+        "product testing", "product screening", "compliance testing",
+        "laboratory testing", "pre-market testing", "technical inspection",
+        "quality assurance testing", "product approval process",
+        "import testing requirement", "testing regulation"
+      ],
+      "negatives": []
+    },
+    "11_4": {
+      "desc": "Deviation from international encryption standards (ISO, IEC, ITU, FIPS, AES, TDES, and ECC)",
+      "keywords": [
+        "encryption standard", "cryptographic standard", "ISO", "IEC", "ITU",
+        "FIPS", "AES", "TDES", "ECC", "deviation from international standard",
+        "encryption algorithm regulation", "national encryption requirement",
+        "encryption conformity", "non-compliant encryption"
+      ],
+      "negatives": []
+    }
+  }
+}

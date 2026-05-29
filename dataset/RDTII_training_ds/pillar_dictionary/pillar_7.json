@@ -1,0 +1,60 @@
+{
+  "pillar_name": "Domestic Data Protection and Privacy",
+  "pillar_id": 7,
+  "keywords": [
+    "data protection", "personal data", "privacy", "cybersecurity",
+    "data retention", "data protection authority", "DPA",
+    "data protection officer", "data breach", "government access"
+  ],
+  "indicators": {
+    "7_1": {
+      "desc": "Lack of comprehensive legal framework for data protection",
+      "keywords": [
+        "data protection law", "personal data protection law",
+        "data privacy act", "general data protection regulation",
+        "comprehensive data protection framework", "privacy legislation",
+        "no data protection law", "absence of data protection regulation"
+      ],
+      "negatives": []
+    },
+    "7_2": {
+      "desc": "Lack of dedicated legal framework for cybersecurity",
+      "keywords": [
+        "cybersecurity law", "cybersecurity framework", "information security act",
+        "network security law", "cybercrime law", "data security regulation",
+        "no cybersecurity law", "lack of cybersecurity regulation"
+      ],
+      "negatives": []
+    },
+    "7_3": {
+      "desc": "Minimum period of data retention requirements",
+      "keywords": [
+        "data retention requirement", "minimum retention period", "data storage duration",
+        "data retention policy", "data archiving rule", "mandatory data retention",
+        "telecom data retention", "internet service provider retention rule"
+      ],
+      "negatives": [
+        "government data", "public sector data"
+      ]
+    },
+    "7_4": {
+      "desc": "Data Protection Impact Assessment (DPIA) or Data Protection Officer (DPO) requirements",
+      "keywords": [
+        "data protection officer", "DPO", "data protection impact assessment",
+        "DPIA", "privacy impact assessment", "data audit",
+        "privacy officer", "data governance requirement", "data compliance officer"
+      ],
+      "negatives": []
+    },
+    "7_5": {
+      "desc": "Requirements to allow government access to personal data",
+      "keywords": [
+        "government access to personal data", "lawful interception",
+        "national security data access", "data disclosure to government",
+        "mandatory data sharing", "state surveillance",
+        "investigatory powers", "intelligence access", "public authority access"
+      ],
+      "negatives": []
+    }
+  }
+}

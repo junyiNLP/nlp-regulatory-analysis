@@ -1,0 +1,1459 @@
+﻿Pillar/indicator_ID;Guide_desc
+1;"Pillar 1 covers tariffs and trade defence measures applied to intraregional imports of ICT goods.
+ICT products or ICT goods are final goods whose main purpose is to capture, transmit, process,
+and render information and intermediate goods and inputs that are crucial to manufacturing these
+goods. Examples include smartphones, computers, network equipment, storage media,
+semiconductors, electrical parts, electronics, sensors, processors and cables. The RDTII 2.1
+results are based on ICT products under WTO Information Technology Agreement (ITA) I and ITA
+II, as well as the proposed ITA III expansion by the Information Technology and Innovation
+Foundation (ITIF) (see Annex III).4
+As figure 5 reveals, these measures are often designed to protect domestic firms, provide a source
+of Government revenue, and counteract anti-competitive practices taken by foreign firms or foreign
+Governments. However, the measures have risks of limiting the development of the digital
+economy market. For example, tariff measures on electronics, telecommunication items and high-
+performance computing technologies may reduce an economy’s exposure to advanced digital
+products or technologies, thereby deepening digital divides (Ferracane and others, 2019).
+Furthermore, tariffs and trade measures on basic materials for batteries and hardware, as well as
+finished products such as computers, electronics and telecommunication equipment, affect the
+costs of digital trade."
+1_1;"This indicator is the weighted average of effectively applied tariffs (AHS) 5 of each reporting
+economy to the rest of the economies within the considered United Nations region (e.g., Viet Nam
+effectively applied tariffs to the rest of the ESCAP (Asia-Pacific) region). Effectively applied tariffs
+are defined by the World Integrated Trade Solution (WITS) as the lowest available tariffs. If a
+preferential tariff rate exists, it will be used as the effectively applied tariff. Otherwise, a
+most-favoured nation (MFN) applied tariff will be used. The reason why the AHS also incorporates
+the preferential tariff is that the index seeks to measure the actual level of tariffs applied to the ICT
+goods (the WTO ITA I, ITA II, and the proposed ITA III expansion, see Annex III) from regional
+partners considered. Using the MFN tariff alone would only provide a picture of the highest tariff
+rates imposed.
+The reason why the index uses the weighted average rather than the simple average rates is
+that the simple average does not account for the relative importance of ICT goods in terms of their
+trade volumes. The weighted average accounts for this relative importance by weighing each tariff
+rate by the share of the trade volumes of each tariff line. This means that tariff rates of ICT goods
+with higher trade shares get higher weights than tariff rates of ICT goods with lower trade shares."
+1_2;"The second indicator is the no duty-free tariff lines or coverage rate of zero-tariffs that apply to ICT
+goods (the WTO ITA I, ITA II, and the proposed ITA III expansion) imported from other economies
+within the considered region. The indicator follows a linear function, f(x) = -0.025x + 1.75, where
+x is the coverage rate calculated from the number of free tariff lines for ICT goods divided by the
+total number of tariff lines for ICT goods, multiplied by 100. However, when the coverage rate is
+30% or below, the score will be truncated to ‘1.’ In contrast, when the duty-free coverage rate
+is greater than 70%, the score will be truncated to ‘0’. The data for zero-tariff lines in a given
+economy is found in the WITS database. For the specific steps to find the data for zero-tariff lines,
+refer to Annex I."
+1_3;"This indicator looks at whether economies are members of the WTO’s ITA I (“the Ministerial
+Declaration on Trade in Information Technology Products”) or ITA II (“the Ministerial Declaration
+on the Expansion of Trade in Information Technology Products”). The ITA I requires its members
+to “eliminate and bind customs duties at zero for all products specified in the Agreement.”6
+In ITA II, the members agreed to expand the products covered by ITA I by eliminating tariffs on an
+additional list of 201 products.7
+The ITA I and II are a close proxy for tariff measures that apply to ICT products. The WTO reports
+that, today, ICT products account for approximately 10% of global merchandise exports (WTO,
+2001). ICT products covered by the ITA I alone account for approximately 97% of world trade in
+the IT sector. The expanded list of the products under ITA II accounts for approximately 7% of
+total global trade today.
+The reason why the index includes this indicator, even though it already takes into account the
+coverage rate of zero tariffs on ICT products, is that the schedules of concessions bind the
+economies to their obligations to other members under the agreements, unlike domestic policies
+of zero tariffs. Because the members would have the legal obligation not to impose import duties
+on the covered products, investors and traders would benefit significantly from improved market
+access, predictability and certainty (WTO, 2001)."
+1_4;"The indicator looks at whether an economy is enforcing trade defence measures such as
+anti-dumping duties, countervailing duties, and safeguard measures against ICT goods and ICT-
+related goods imported from any economy in the considered region.
+Specifically, the ‘ICT-related goods’ refers to finished products and components used in the ICT
+equipment manufacturing, such as electrical connection terminals, aluminum alloy strips, power
+transformers, galvanized steel coils, stainless steel tubes, and glass fiber materials. These items
+serve as components or inputs in procuring finished products, including ICT goods in some cases.
+Raw materials used in ICT manufacturing, such as rare earth elements, lithium, cobalt, and silicon,
+are not considered under this definition.
+Only the active measures will be counted, while the efforts of investigation measures in the
+pre-implementation stage or terminated measures will not be counted. For example:  Argentina imposes an anti-dumping duty on imports of electrical connection terminals
+from China and Germany;
+• Brazil imposes a definitive anti-dumping duty on imports of loudspeakers from China;
+• India imposes an anti-dumping measure on imports of printed circuit boards
+originating in or exporting from China and Hong Kong (China), with duty rates between
+30% and 76% depending on the exporting company;
+• Türkiye imposes an anti-dumping duty on welded stainless-steel tubes, pipes and profiles
+originating in China, Malaysia, Viet Nam and Taiwan Province of China, with duty rates
+varying by the exporting company."
+2;"Pillar 2 covers measures on public procurement related to ICT goods and online services. Public
+procurement is generally applied to various sectors, including those related to digital trade,
+affecting ICT goods and online services. There is tension among different policy objectives in
+procurement policies, as shown in figure 7. It investigates whether domestic bidders tend to have
+an advantage in Government procurement. Specifically, for procurement in sectors relevant to
+digital trade, such as IT technologies and infrastructure, national security and cybersecurity
+interests may be involved in forming procurement policies as procuring entities carry sensitive
+information in the operation of public administration.
+However, some measures that exclude foreign suppliers in Government procurement block
+potential avenues of digital trade. Accordingly, while the national security and cybersecurity
+interests are significant, economies need to examine whether the measures are necessary to
+serve those interests or if other, less restrictive means exist."
+2_1;"This indicator covers measures that exclude foreign enterprises from public procurement,
+including for ICT goods and online services. The exclusion of foreign firms in public procurement
+not only discriminates against foreign firms but also limits the opportunity of the domestic economy
+to access new digital technologies that foreign firms could offer.
+• The exclusion is when foreign enterprises are not allowed to participate in the public
+procurement of certain ICT goods and online services, or when a list of specific economies,
+groups or companies are banned from participating in public tenders. For example, the
+Russian Federation has established a ban on the use of foreign messenger services in
+public procurement. Moreover, in Nigeria, Government entities must purchase hardware
+locally and procure software from local developers;
+• Foreign enterprises can only take part in public tenders when domestic service suppliers
+are not participating or available. For example, Nepal accepts foreign suppliers only when
+competitive prices are not available from more than one local supplier, no national bids are
+submitted, or the goods are certified by a public entity as complex or specialized. Bolivia
+directs public calls for national purchases of up to approximately US$ 1,166,000 exclusively
+to legally established national production companies, with foreign companies allowed only
+if no national providers are available. Foreign enterprises can participate in public
+procurement when domestic enterprises are required to bid in cooperation with foreign
+enterprises. For example, Thailand requires foreign consultants to team up with domestic
+ones to participate in public tenders."
+2_2;"The indicator asks: (a) whether firms are required to surrender source code, encryption or other
+trade secrets, or to transfer ownership of exclusive rights to use IP such as patented technology,
+as a condition for successful public procurement and (b) whether firms are required to use a
+specific encryption standard to be successful for their bidding.
+A requirement to transfer technology or use a specific encryption standard in public procurement
+often stems from interest in protecting national security. However, these types of requirements
+may prevent foreign companies from entering the domestic market because of concerns about
+the disclosure of their trade secrets and the increasing costs of configuration with a new
+system. For example:
+• Egypt mandates the use of encryption requires the approval of the National Telecom
+Regulatory Authority as well as the armed forces and national security entities;
+• Indonesia requires that providers of custom software for public electronic systems must
+submit source code and docum entation associated with their service to the relevant
+public institution; and • Kazakhstan requires that software providers submit source codes and configurations for
+inclusion in a unified Government register for public procurement."
+2_3;"This indicator covers limitations on participation in public procurement. These limitations can
+take various forms: (a) allocation of a quota; (b) preference in favour of certain suppliers; and (c)
+price preference in favour of certain suppliers. These limitations trigger when certain conditions are
+met, which include: (a) the nationality of suppliers; (b) other status such as being SMEs or
+indigenous; and (c) percentage of local content in supplies. For example:
+• Argentina establishes that in public-private partnership contracts, at least 33% of the
+goods and services used must be provided by local companies;
+• Azerbaijan grants a procurement discount of up to 20% in favour of locally produced goods;
+• India reserves 25% of the annual procurement quota for micro and small enterprises,
+including a 3% reservation for women-owned micro and small enterprises;
+• Indonesia requires a minimum 40% domestic content for transmission towers and steel-
+reinforced conductors in public procurement ;
+• Rwanda imposes local content requirements giving a 15% preference to goods produced
+locally and a 10% preference to bidders registered in Rwanda; and
+• Sri Lanka provides a 20% domestic preference margin for Government-funded
+procurements of manufactured goods that meet a 30% local-value additional test and other
+eligibility criteria, such as registration under the Companies Act and submission of an
+affidavit and audited financial statements.
+These limitations discourage international procurement in sectors relevant to digital trade. To
+categorize a measure accordingly, the first step is to identify whether it constitutes a limitation
+rather than an exclusion mentioned in indicator 2.1, and the second step is to identify whether the
+measure is applied in a discriminatory manner against foreign suppliers or equally applied to all
+suppliers."
+2_4;"This indicator looks at (a) whether an economy is a signatory to the WTO’s GPA and (b) whether
+its coverage schedule includes services relevant to digital trade (box 2). The GPA is a
+binding plurilateral agreement that promotes non-discrimination in public procurement by
+committing its members to the most-favoured-nation treatment and national treatment. However,
+these rules are subject to each party’s coverage schedule (Annex V regarding services of the
+GPA)8 that determines whether procurement activities in a particular sector are covered by the
+Agreement or not."
+3;"Pillar 3 covers measures on foreign direct investment (FDI) in sectors related to digital trade. These
+sectors include the manufacturing of telecommunication facilities, telecommunication services,
+computer services and Internet services.
+Tensions in public and FDI policies may exist between the interests to protect national security
+and the domestic market, and the need to attract FDI (figure 9). Furthermore, as much as
+telecommunication facilities, networks and other related services are critical, economies may not
+want to increase their dependence on foreign investors in these sectors. However, some foreign
+investment measures do not necessarily address these concerns but may risk restricting foreign
+investment, reducing competition in the market, and limiting users’ opportunities to access better
+quality goods and services."
+3_1;"This indicator concerns the maximum foreign equity shares in sectors related to digital trade. Foreign
+equity shares are shares that foreign natural or legal persons hold in a firm incorporated in the
+investee economy. The indicator covers restrictions on foreign equity shares in (a) privately owned
+companies; and (b) Government-controlled companies—fully or partially state-owned enterprises
+(SOEs). Limitation on foreign equity shares is a direct obstacle for foreign investors that could
+induce a higher level of development in the sectors.
+The foreign equity shares under this Pillar focus on those applied horizontally to all sectors or
+specific sectors relevant to digital trade, except telecommunication9 and e-commerce sectors,
+where they are captured separately under Pillars 5 and 12. Certain economies regulate the
+telecommunication and e-commerce sectors through sector-specific regulators with jurisdiction
+over these areas. However, foreign equity caps applied under a horizontal framework are
+recorded only under this indicator to avoid double-counting."
+3_2;"This indicator asks whether there is a requirement for firms to engage in a joint venture with
+a local firm in order to invest or operate in the economy. While forming a joint venture with
+a domestic firm helps foreign investors to strategize business effectively in a market unfamiliar
+to them and navigate through domestic regulation, the investors are in a better position than the
+Government to determine whether a joint venture is necessary. Furthermore, a mandatory
+requirement to form a joint venture with a domestic partner can discourage foreign investors
+due to the concern that technology might be forcefully transferred. Examples of joint venture
+requirements are:
+• China, under a pilot policy, requires foreign providers of virtual private network (VPN)
+service to form a joint venture with Chinese partners, with foreign ownership capped at
+50%. In addition, such operations must be conducted within designated pilot free trade
+zones;
+• Egypt requires a joint venture for companies operating in trade sector projects, with
+possible exceptions for projects in remote areas;
+• Liberia requires a joint venture or partnership between a Liberian and a foreigner to invest
+in a few businesses (commercial printing, advertising, graphics and commercial artists) if
+the total shareholding of the Liberian is at least 25% and the total capital invested is not
+less than US$ 300,000; and
+• Vanuatu, requires foreign firms that undergo “expansion” more than three times to form a
+joint partnership with a citizen of Vanuatu."
+3_3;"This indicator asks whether there are nationality or residency requirements for members of the
+board of directors or managers. These measures prevent foreign investors from appointing board
+members or managers of their choice.10
+• Nationality requirements. For example, Bhutan requires that internet service provider (ISP)
+businesses must have local managers and personnel who are citizens of Bhutan.
+Indonesia reserves 19 positions, including directors, managers and supervisors for
+Indonesian nationals; and
+• Residency requirements. For example, Palau, Kiribati and Singapore require that a
+company must have at least one director to be ordinarily resident in the economy. Georgia
+mandates that at least one manager of a limited liability corporation must have domicile
+within the economy."
+3_4;"This indicator asks whether (a) an economy has adopted any screening mechanism for foreign
+investment or mergers and acquisitions (M&A) in sectors relevant to digital trade, excluding those
+implemented solely for antitrust purposes, unless such mechanisms are found to be
+discriminatory; and (b) whether there was a case of blocking investment or M&A based on the use
+of the concerned screening measure in sectors relevant to digital trade.
+Investment screening refers to regulatory mechanisms that allow Governments to review, approve,
+or block foreign investments or acquisitions. The mechanisms are primarily based on either the
+interests of national security and public order or purely economic interests. Even the screening
+mechanisms that refer to economic interest, conditions and criteria are often unclear. The process
+mostly applies in a discretionary manner, creating uncertainty for investors and potentially
+discouraging investment activities. It is challenging to declare that screening mechanisms based
+on national security interests are less justified than those based on economic interests or vice
+versa.
+Examples of the screening mechanisms in sectors relevant to the digital trade are:
+• Armenia grants the authority to review foreign investments on the grounds of national
+security. The terms “national defence” and “security” are not clearly defined in the law.
+• Kiribati requires foreign investors to obtain prior approval and a valid investment certificate
+before investing. The investment threshold of US$ 250,000 requires Cabinet approval.• In Mexico, the National Commission of Foreign Investment evaluates whether foreign
+investment applications meet certain criteria, including the impact on employment and
+workers’ training, technological contribution and an increase in the competitiveness of the
+economy. This Commission can prevent acquisitions by foreign investment for reasons
+of national security;
+• New Zealand applies a three-stage investment screening process. First, a foreign investor
+in a significant business asset (an investment activity that results in 25% or greater
+ownership or whose value exceeds US$ 71 million) must obtain consent. Second, a foreign
+investment in strategically important businesses, such as telecommunication infrastructure
+and media entities, can be subjected to the national interest test, and the consent may
+be declined if a transaction is contrary to national interest. Third, investment is subject to a
+‘call in transaction’ under which the Government may block, impose conditions on, or order
+disposal of the activities if they pose a threat to national security or public order;
+• Uganda’s Investment Code Act stipulates certain screening measures for local and foreign
+investors intending to invest in information technology; and
+• Vanuatu conditions its approval of investment activities on the provision of employment
+to locals and local capacity-building."
+3_5;"This indicator asks whether an economy requires foreign service providers to establish a
+commercial presence. This refers to services provided within an economy by a locally established
+office, branch, subsidiary or representative office of a foreign-owned and controlled company to
+offer cross-border services in sectors relevant to digital trade, corresponding to Mode 3 under the
+WTO GATS.
+11 However, it does not cover requirements limited to business registration that do
+not involve the establishment of a physical or operational presence, for example:
+• Colombia requires foreign companies to set up a branch in the country to engage in
+permanent business. These include activities such as opening business offices and
+intervening as a contractor of works or in the provision of services, among others;
+• Lao PDR requires companies operating a satellite communication business to establish a
+registered business with a local office;
+• Malaysia requires that a foreign company that carries out business in Malaysia to
+incorporate with a local company or register a branch within the economy;
+• Pakistan requires significant social media companies—those with over 500,000 users or
+listed by the Authority to establish a permanent registered office in the country, preferably
+in Islamabad;• Kyrgyzstan requires entities seeking a telecommunications license to establish a local
+presence by submitting legal registration documents, taxpayer identification, and other
+local documentation as part of the licensing process; and
+• Viet Nam requires businesses providing specific categories of online gaming services to
+local users to establish a company in Viet Nam in order to obtain a license to operate."
+4;"Pillar 4 deals with intellectual property rights (IPRs), which are patents, copyrights and trade
+secrets. Since sectors relevant to digital trade are knowledge-intensive, IPRs play a crucial role
+in fostering innovation and creativity in digital trade. Generally, as shown in figure 11, sound
+policies regarding IPRs find a proper balance between the interests of protecting individual rights
+to intellectual property and fostering the freedom to use and build upon existing intellectual
+property. On the other hand, IP policies based on an ill-conceived balance tend to restrict digital
+trade because they contribute to creating an uncertain regulatory environment."
+4_1;"This indicator covers measures on the application process for patents, including differential
+treatment between local and foreign applications, and the measures applied to both local and
+foreign applications. The indicator asks whether (a) there is a restriction on the patent application
+process, and (b) what type of restriction. There are various forms of restrictions, such as a rejection
+of the patent application in a discretionary manner, a requirement to file a patent locally before
+filing abroad, or a requirement to translate documents into the official languages.
+For example:
+• A requirement to appoint a local agent. For example, Bhutan mandates that applicants
+residing or having their principal place of business outside Bhutan must be represented by
+a legal practitioner residing and practicing in the economy or a registered industrial
+property agent; • A requirement to translate the application into a local language. For example, Kyrgyzstan
+requires patent applications to be submitted in the state or official language, that is, Kyrgyz
+or Russian. Foreign applicants may file the application in another language, provided that
+they include a translation into one of these two languages;
+• A requirement to satisfy local requirements before filing abroad. For example, China
+requires that, where a Chinese entity or individual intends to file a patent application in
+a foreign economy for an invention made in China, the applicant must submit a request
+for a confidential examination to the patent administration department. This provision is
+applicable to all Chinese entities, including a subsidiary of a foreign company which is also
+considered a Chinese entity; and
+• A requirement to register foreign patents locally. For example, Nepal introduces a regime
+where foreign patents are not valid in Nepal unless they are registered in Nepal."
+4_2;"This indicator asks whether an economy’s legal framework concerning patents incorporates (a)
+civil and administrative procedures; and (b) provisional measures.12
+According to the WTO Trade-Related Aspects of Intellectual Property Rights (TRIPS) Agreement,
+Part III enforcement of intellectual property rights, Articles 42-49 (Section 2 civil and administrative
+procedures and remedies), 13 right-holders are permitted to pursue civil and administrative
+procedures in cases of intellectual property rights infringements. Judicial authorities are
+empowered to request the infringers to pay the right holder damages adequately to compensate
+for the arising injuries.
+Moreover, regarding the provisional measures, the WTO TRIPS Article 50 (Section 3 provisional
+measures) prescribes that the judicial authorities shall have the authority to order prompt and
+effective provisional measures: (a) to prevent an infringement of any intellectual property rights
+from occurring, and in particular to prevent the entry into the channels of commerce in their
+jurisdiction of goods, including imported goods immediately after customs clearance; and (b) to
+preserve relevant evidence in regard to the alleged infringement. If the provisional measures are
+implemented, the parties involved shall be given notice without delay. The provisional measures
+often include temporary remedies, such as the seizure or detention of suspected infringing
+products, or orders to preserve documents and other materials.
+The legal framework considered under this indicator is not limited to dedicated intellectual property
+or patent laws. General laws, such as the Civil Code or procedural laws, are applicable. For
+example:
+- In Azerbaijan, patent infringement is addressed through administrative, civil and criminal
+procedures. If parties cannot agree on compensation, disputes are resolved in court under
+the Civil Procedure Code. Provisional measures are authorized by the courts under the Civil Procedure Code and the Law on Enforcement of Intellectual Property Rights and Combating
+Piracy, which also governs enforcement and remedies; and
+- In the Philippines, patent holders can seek civil remedies such as damages, attorney’s fees,
+injunctions, and destruction of infringing goods, with provisional measures like temporary
+injunctions available under the Intellectual Property Code. Severe cases may lead to triple
+damages and criminal penalties, including imprisonment and fines."
+4_3;"This indicator covers measures on the enforcement of patents. The indicator asks whether there
+is a restriction on patent enforcement and the scope of such restriction.
+The measures that will get scored may include, for example, different terms of patent protection
+that discriminate against the enforcement of foreign patent applicants or when patent holders’
+rights are restricted by state intervention.
+14 Whether patent enforcement restrictions are applied
+horizontally across all sectors or limitedly to specific circumstances or sectors can have different
+impacts on businesses.
+Exceptions to patent rights allowed under the WTO TRIPS, notably Articles 30 (exceptions to rights
+conferred), 31 (other use without authorization of the right holder) and 31bis, are not considered
+as restrictions on patent enforcement issues. Specifically, Article 30 allows limited exceptions to
+patent rights as long as they do not unreasonably conflict with the normal exploitation of the patent
+or prejudice the legitimate interests of the patent owner.15 Article 31 and Article 31bis are about
+‘compulsory license, permitting the Government use to address public health, national
+emergencies, or other circumstances of extreme urgency, with adequate remuneration to the
+patent holder.16 These exceptions are in place to balance patent rights and public interest, rather
+than constituting enforcement restrictions."
+4_4;"This indicator looks at whether an economy is a member of the WIPO Patent Cooperation Treaty
+(PCT) (box 3). The PCT is a multilateral treaty and creates a unified patent system, which provides
+several advantages to residents or nationals of PCT members. The lack of PCT membership
+can increase the risks of elevated regulatory compliance costs, especially when the businesses
+wish to establish a patent in other member economies."
+4_5;"This indicator asks for the presence of a copyright legal framework and what type of copyright
+exceptions, if any, an economy has adopted. The exceptions allow lawful use of copyrighted works
+without obtaining permission or a license from the copyright holders. This encourages foreign
+people (natural or legal) to use existing materials copyrighted in an economy and thereby foster
+innovation and development. However, the degree to which the exceptions promote this interest
+differs depending on the type of exceptions.
+First, the doctrine of fair use provides that if the use of a copyrighted work is fair, the use is lawful.
+Such use is considered fair in light of several factors, such as: (a) the purpose and character of the
+use; (b) the nature of the copyrighted work; (c) the amount and substantiality of the portion taken;
+and (d) the effect of the use upon the commercial market. Thus, the doctrine is a flexible, case-
+by-case test, creating more room for new, innovative use. In general, the use of copyrighted
+material for criticism, comment, news reporting, teaching, scholarship or research is fair, but not
+always; furthermore, the use of other than these examples can be fair.
+Second, the doctrine of fair dealing provides that the use of copyrighted material is permissible
+only if the use (a) falls under an exhaustive list of permissible uses, and (b) is fair (e.g., giving
+proper attribution to the copyright holder). Generally, the list is confined to research, private study,
+education, satire, parody, criticism, review or news reporting, leaving little ‘wriggle room’ for
+subsequent use of copyrighted works.
+Aside from fair use and fair dealing doctrines, an economy may incorporate a test similar to the
+three-step test and other forms of copyright exceptions. The three-step test was established under
+Article 9(2) of the Berne Convention for the Protection of Literary and Artistic Works, which states
+that: “reproduction [of literary and artistic works protected by the Convention] in certain special
+cases (a) does not conflict with a normal exploitation of the work and (b) does not unreasonably
+prejudice the legitimate interests of the author.” However, this test alone does not say much about
+what constitutes permissible use, thus creating uncertainty.
+Additionally, examples of other forms of copyright exceptions can be found in Indonesia and the
+Marshall Islands, where a closed list of exceptions has been adopted rather than a flexible case-
+by-case test:
+- Indonesia narrowly defines exceptions which allow limited uses of copyrighted works, such
+as for educational purposes, research, personal use, public interest, or review, provided
+that the use is non-commercial; and
+- The Marshall Islands prohibits unauthorized commercial reproduction of sound recordings
+and audiovisual works but provides specific exceptions. These include works not created in
+the Marshall Islands, works by non-citizen owners, reproduction for free radio or TV
+broadcasts, historic or archival purposes, or for strictly personal use without commercial
+intent."
+4_6;"This indicator asks whether an economy’s intellectual property rights legal frameworks concerning
+copyright incorporate (a) civil and administrative procedures; and (b) provisional measures.
+According to the WTO Trade-Related Aspects of Intellectual Property Rights (TRIPS) Agreement
+Part III, enforcement of intellectual property rights, Articles 42-49 (Section 2 civil and administrative
+procedures and remedies), 17 right-holders are permitted to pursue civil and administrative
+procedures in cases of intellectual property rights infringements. Judicial authorities are
+empowered to request the infringers to pay the right-holder damages adequately to compensate
+for the arising injuries.
+Moreover, regarding the provisional measures, the WTO TRIPS Article 50 (Section 3 provisional
+measures) prescribes that the judicial authorities shall have the authority to order prompt and
+effective provisional measures: (a) to prevent an infringement of any intellectual property rights
+from occurring, and in particular to prevent the entry into the channels of commerce in their
+jurisdiction of goods, including imported goods immediately after customs clearance; and (b) to
+preserve relevant evidence in regard to the alleged infringement. If the provisional measures are
+implemented, the parties involved shall be given notice without delay.
+The legal framework considered under this indicator is not limited to dedicated intellectual property
+or patent laws. General laws, such as the Civil Code or procedural laws, are applicable."
+4_7;"This indicator looks at whether an economy is a signatory to the WIPO Patent Cooperation Treaty
+(WCT) (box 4). The WCT is a special agreement under the Berne Convention for the Protection
+of Literary and Artistic Works and ensures the protection of works and the rights of their authors
+in the digital environment.
+The WCT expands the scope of copyright protection to two subject matters for at least 50 years:
+(a) computer programs, whatever the mode or form of their expression; and (b) compilations of
+data (“database”), in any form, whose contents constitute intellectual creation.18 The Treaty grants
+exclusive rights apart from the rights recognized by the Berne Convention to authors, which are
+the right of distribution, the right of rental and the right of communication by wire or wireless
+transmission."
+4_8;"This indicator looks at whether an economy is a signatory to the WIPO Performances and
+Phonograms Treaty (WPPT) (box 4). The WPPT ensures the rights connected to aural
+performances, which are the subject matter of phonograms.20 Two kinds of beneficiaries in the
+digital environment are focused on: (a) performers (actors, singers, musicians, etc.) and (b)
+producers of phonograms (persons or legal entities that take the initiative and have the
+responsibility for the fixation of sounds). The term of protection of these rights is 50 years.
+The Treaty grants exclusive rights to the performances fixed in phonograms (excluding audiovisual
+fixations, such as motion pictures) and phonograms. The rights are the right of reproduction,
+the right of distribution, the right of rental and the right of making available by wire or wireless
+transmission.21 The performers of the unfixed (live) performances also receive the right of
+broadcasting, the right of communication to the public, the right of fixation, as well as the moral
+right that is the right to claim to be identified as the performer and object to any distortion or
+modification that would be prejudicial to their reputation."
+4_9;"This indicator asks whether a Government mandates the disclosure of trade secrets, such as
+source code and algorithms. The disclosure requirement under this Pillar does cover disclosure
+requirements related to public procurement or encryption, as these are captured separately under
+Pillars 2 and 11, respectively. For example:
+• In Malawi, there are requirements for encryption service providers to declare the means
+of encryption and the source code of the software used by the Malawi Communications
+Regulatory Authority;
+• In Solomon Islands, disclosure of trade secrets to panel members is mandatory during
+proceedings, but safeguards exist as members are prohibited from further disclosing such
+information; and
+• In Turkmenistan, authorities have the right to access information constituting a trade secret
+within their legal competence. While disclosure is mandatory, the law prescribes that such
+information must be handled in accordance with the established procedures and cannot
+be further disclosed unless allowed by law.
+In line with the spirit of WTO Trade-Related Aspects of Intellectual Property Rights (TRIPS) to
+guide trade secret protection, “members shall protect the submission of undisclosed data against
+unfair commercial use and disclosure, except where necessary to protect the public, or unless steps
+are taken to ensure that the data are protected against unfair commercial use”
+. Hence, the
+requirement could be of limited scope, meaning that the disclosure is conditional or becomes
+mandatory only in certain circumstances. For example, an economy may adopt an escrow
+requirement for source codes in public procurement. Suppliers transfer the source codes to an
+escrow, and the source codes would be transferred to the Government, for example, when the
+suppliers go bankrupt or refuse to fix their products or programmes. Indonesia has an escrow
+requirement for custom-made software."
+4_10;"This indicator asks whether an economy has adopted a trade secrets legal framework that
+provides effective protection of trade secrets. ‘Effective protection’ means that confidential
+business information or commercially valuable data are protected from unauthorized acquisition,
+use or disclosure through clear and enforceable legal provisions or well-established common law
+principles. The framework should enable right holders to take legal action against
+misappropriation, including remedies such as injunctions, damages and, where applicable,
+criminal sanctions.
+Specifically, in common law jurisdictions, effective protection may arise from case law and judicial
+precedents on confidentiality and breach of confidence, even if there is no dedicated statutory
+framework. Therefore, the absence of a standalone trade secrets legal framework does not
+necessarily imply a lack of effective protection, provided that courts enforce protections against
+unauthorized disclosure of trade secrets. For instance, Singapore’s trade secrets protection is
+grounded in the common law doctrine of breach of confidence. The framework and case law23
+meet international standards under TRIPS Article 39,24 providing protection against unauthorized
+acquisition, use or disclosure and implementing remedies.
+The scope of the indicator is the protection of trade secrets under domestic laws, i.e., statutes
+(intellectual property law and other laws), case laws, and other relevant legal frameworks. All forms
+of trade secret legal framework, such as Acts, provisions, clauses, or common law doctrine, are
+taken into consideration."
+5;"Pillar 5 deals with policies regarding telecommunications infrastructure and competition, covering
+telecommunication services as defined under the WTO GATS telecommunications services.
+The Pillar includes all forms of basic and value-added telecommunications regardless of the
+technology used. 25 Basic telecommunications services encompass both public and private
+services that involve end-to-end transmission of customer-supplier information (such as voice
+telephone services, circuit-switched data transmission services, and fixed satellite services).
+Value-added telecommunications refer to services that enhance or add to basic telecom services
+(such as online data processing, online database storage and retrieval, email, and voice mail).
+26
+It is important to note that broadcasting services are not covered under this Pillar.27
+For telecommunications infrastructure and competition policies, relevant policy objectives such as
+national security, provision of critical infrastructure, raising Government revenue and effective
+allocation of scarce resources invite regulation of the market by the Government. However, for a
+domestic telecom market to benefit from digital trade, often by means of foreign investment, these
+policy objectives need to be balanced, as shown in figure 13, with the policy environment that is
+conducive to competition among domestic and foreign telecom providers."
+5_1;"This indicator looks at (a) whether there is an obligation for passive infrastructure sharing in the
+economy, and (b) whether the adopted regulatory approach is mandatory or voluntary sharing.
+‘The passive infrastructure’ refers to the sharing of non-electronic infrastructure or the physical
+infrastructure, such as buildings, sites, network cabinets, masts (towers), poles, ducts and trays.28
+The telecom infrastructure involves high costs, i.e., installation, equipment, operation and
+maintenance costs. The infrastructure sharing obligation is the process by which one or more
+telecom operators share infrastructure to deliver services to the end-users. This obligation, thereby,
+lowers the network deployment, especially in rural areas or marginal markets, stimulates migration
+to new technologies and the deployment of mobile broadband, and enhances competition between
+telecom operators and service providers, when safeguards are used to prevent anti-competitive
+behaviour (ITU, n.d.). Moreover, the infrastructure sharing obligation can be established under
+various business models and forms.
+For example:
+• The passive infrastructure sharing obligation is mandated. For example, Thailand requires
+telecom operators in both fixed and mobile sectors to share their wireless
+telecommunication network infrastructures, including tower/mast, site, building and other
+physical facilities, with other telecom operators in a reasonable and fair manner, without
+discrimination;
+• The passive infrastructure sharing obligation is optional, but is implemented. For example,
+Pakistan, Vanuatu, and Hong Kong (China) do not mandate a passive sharing obligation.
+However, infrastructure sharing is effectively implemented based on a commercial
+agreement in both mobile and fixed sectors. New Zealand does not require sharing
+obligation; however, a framework for voluntary co-location of cellular infrastructure is in
+place to facilitate sharing of towers, masts and related sites; and
+• The passive infrastructure obligation is mandated in specific circumstances or upon
+request. For example, in Australia, passive infrastructure sharing is practised in mobile
+and fixed sectors. In the mobile sector, co-location on towers and ducts is negotiated
+commercially. While in the fixed sector, the network owner of the following declared
+services, such as line sharing service (LSS), local carriage service (LCS), must provide
+access to the service upon request."
+5_2;"This indicator concerns the maximum foreign equity shares in the specific sector of
+telecommunications. The indicator covers restrictions on foreign equity shares in (a) privately
+owned companies, and (b) Government-controlled companies—fully or partially SOEs. Foreign
+equity shares are shares that foreign natural or legal persons hold in a firm incorporated in the
+investee economy. Foreign investment is a driving force to increase competition and
+transformation in the telecom market. Limitation on foreign equity shares is a direct obstacle for
+foreign investors that could induce a higher level of development in the telecom sector. In
+particular, the foreign equity shares under this Pillar do not include the foreign equity shares in
+other sectors relevant to digital trade or the e-commerce sector, which are captured in Pillars 3
+and 12, respectively."
+5_3;"This indicator concerns the percentage of shares owned by the Government in telecom
+companies, including the case in which the telecom operator is an SOE. Most of the Government
+ownership in the telecommunication company limits the local and foreign ownership in the telecom
+market.
+When an SOE is operating in the telecommunications sector, it is important to identify (a) the
+percentage of Government ownership, and (b) the company’s market share expressed as a
+percentage to assess the presence of the SOE and potential impact on the respective economy’s
+telecom market. Telecommunications market structures vary, for example:
+- A de jure monopoly (statutory monopoly) is in place when telecommunications networks
+and services must be exclusively state-owned. For example, Turkmenistan’s Law on
+Communication mandates exclusive state ownership of telecom networks used for
+national security and national broadcasting. Turkmentelekom TC and Altyn Asyr CJSC
+(TMcell) are 100% state-owned;- A de facto monopoly exists when an SOE or private company is the sole operator in a
+market but absence of a legal barrier preventing competition;
+- Government ownership through a foreign SOE is when the national telecom operator is
+owned by a foreign SOE, not a local Government. For example, Amalgamated Telecom
+Holdings Kiribati Limited (ATHKL) is the sole telecom provider in Kiribati. The company is
+a subsidiary of Fiji-based Amalgamated Telecom Holdings (ATH), which majority majority-
+owned by the Fijian Government;
+- Partial Government ownership without market dominance refers to when the Government
+owns shares in a telecom company, but private operators dominate the market. For
+example, in Thailand, market dominance differs by segment. Although the fixed line
+telephone market is dominated by the National Telecom, SOE, private operators,
+Advanced Wireless Network (AWN), and True Move H Universal Communication (TUC)
+are dominant providers in the mobile market; and
+- Multiple SOEs operating in a competitive market is when more than one SOEs operate
+and compete with other SOEs and/or private operators. For example, China United
+Network Communications Group (China Unicom), China Telecom Corporation Limited
+(China Telecom), and China Mobile Limited are wholly owned SOEs providing basic,
+mobile and value-added telecommunication services."
+5_4;"This indicator asks whether the economy mandates functional and/or accounting separation for
+operators with significant market power (SMP) in the telecom market. The SMP refers to the
+regulatory status representing a dominant position in the telecom market. Functional and
+accounting separation enhances cost transparency, promotes fair market prices, and avoids SMP
+and non-discriminatory practices in telecom markets.
+‘Functional separation’ (sometimes known as ‘operational separation’) refers to the separation
+of units operating different activity branches in the telecommunication company. The functional
+separation prevents entities with a domain position from controlling operations in another area. For
+example:
+- In Georgia, the National Communications Commission is empowered to identify operators
+with SMP through market analysis and may require them to separate functional resources
+within their networks; and
+- New Zealand implemented structural separation requiring Telecom New Zealand to
+separate its network operations from its retail services. Accordingly, the company was
+split into two entities, which are Chorus, which operates the physical telecom
+infrastructure, and Spark (formerly Telecom), which provides retail services. ‘Accounting separation’ refers to the separation of accounting records for different businesses
+and parts of businesses run by the same company, so that the costs, revenue and assets
+associated with each part of a business can be separately identified and properly allocated. This
+kind of separation ensures that the telecom company accurately reports its financial performance
+in each area of its operations. For example:
+- In Armenia, operators with SMP shall maintain separate accounts for different services.
+Similarly, Australia mandated a telecom company to maintain separate accounts for its
+different technology units; and
+- Pakistan requires a telecom service provider in both fixed and mobile services that is
+determined as having an SMP in the market to submit the costs and revenues for each
+regulated service, including profit and loss statement, balance sheet information, return
+on capital employed and supporting notes."
+5_5;"This indicator refers to a license for private telecommunication services or a license to operate
+telecommunication facilities. It asks whether the licensing requirements include (a) discriminatory
+conditions against foreign firms, or (b) create significant barriers to entry for both foreign and local
+service providers. These may include mandatory performance requirements, separate licensing
+for value-added telecommunication services, caps or limits on the number of licenses issued to
+obtain licenses for providing telecom facilities or services, and capital restrictions. For example:
+• Indonesia carries out administrative licensing to allocate radio frequencies rather than
+holding an auction for the frequencies;
+• Bangladesh mandates operators of nationwide telecommunication transmission networks
+to share a portion of their revenue with the regulator starting from the second year of
+operation, in addition to license acquisition and annual fees;
+• Tanzania requires holders of licenses for network facilities and network services to offer
+a minimum of 25% of the company’s share to the public through an initial public offering
+on the stock market; and
+• Other requirements, such as separate licensing requirements for value-added
+telecommunication services, and caps or limits on the number of licenses issued."
+5_6;"This indicator captures whether an economy is a signatory to the WTO’s Telecom Reference Paper.
+The Reference Paper prescribes definitions and principles of the six regulatory frameworks for the
+basic telecommunication services on competitive safeguards, interconnection, universal services
+obligation, public availability of licensing criteria, independent regulators, and allocation and use
+of scarce resources. The regulatory framework is legally binding for those WTO Governments
+which have committed to it by appending the document, in whole or in part, to their schedules
+of commitments and is enforceable through the WTO dispute settlement "
+5_7;"This indicator asks whether an economy has an independent telecommunications regulator.
+30 It
+looks at the existence of an executive authority for the supervision and administration of services in
+the telecommunications sector that is completely independent from the operator and supplier of
+the telecommunication services, the Government and other interested persons in the decision-
+making process and administration of decisions. An independent telecom authority is expected to
+promote fair competition and not be involved in a conflict of interest. This includes two dimensions
+of independence, which are functional independence and institutional and financial independence.
+‘Functional independence’ refers to the regulator’s ability to carry out its duties and make
+decisions impartially without interference from interested parties:
+• The regulator can make decisions without approval from Government bodies or telecom
+suppliers. While decisions may be overruled by higher authorities, such mechanisms
+should be clearly defined, limited in scope and not used to undermine impartial regulation.
+• Regulatory procedures are applied equally to all market participants. There is no
+preferential treatment given to specific companies, such as SOE or dominant firms.
+• While it may be established under or report to a ministry, the regulator functions
+independently and is not subject to political influence in its operation.
+‘Institutional and financial independence’ refers to the regulator’s organization and financial
+autonomy from telecom operators and Government:
+• The regulator is legally separate from the telecom service provider. It does not own,
+manage or control any telecom company.
+• The regulator has a dedicated budget, funded in a stable and predictable manner (e.g.,
+through industry levies or a stable parliamentary appropriation), and is not subject to
+arbitrary or undue budget control by the Government that could compromise its operational
+autonomy.
+• The regulator is authorized to recruit, appoint or manage its staff without undue interference
+from Government (beyond established high-level appointments) or telecom operators."
+6;"Pillar 6 deals with cross-border data policies by regulating the ways in which data flows from
+one jurisdiction to another. Important policy considerations are about balancing business costs
+created by the regulations with the public policy objectives to protect data and data privacy (figure
+15).
+Regarding business costs, the regulation of cross-border data flows tends to increase the cost of
+compliance as it sets barriers for businesses to store and process data (Ferracane, 2017).
+Transferring data across borders is a crucial driver of digital trade, as data is integral to the
+provision of digital goods, online services and even digital-trade infrastructure. Specifically,
+business models in these areas rely on ‘data value chains’. A data value chain, by connecting data
+acquisition, data storage, data processing and data analysis, offers efficient and smart business
+solutions for transactions. These transactions occur either within a business or between a business
+and its customers. Therefore, barriers to the movement of data across borders could heighten the
+costs for digital trade.
+Data privacy and data protection are two sides of the same coin. Data privacy refers to an
+individual’s right to retain control over the way in which their personal data is collected and used,
+while data protection refers to the responsibility of entities to apply safeguard mechanisms to the
+handling of data (PECC and Access Partnership, 2021). Without proper data protection, data
+privacy is threatened; therefore, a high level of data privacy often presupposes strong data
+protection.
+Sound cross-border data policies are often based on a subtle balancing of business costs and
+digital trust (figure 15). Compliance with data protection rules increases costs. However, the better
+that data privacy is, and the stronger that cybersecurity is, the greater digital trust the regulatory
+environment evinces in the eyes of businesses and consumers. This is because there would be
+fewer data breaches, and, even if there were, stronger accountability mechanisms would exist.Pillar 6 covers regulatory measures (or lack thereof) on cross-border data transfer that do not
+get justified in the light of these policy parameters, not necessarily because the measures omit
+any one of the policy parameters, such as business cost, data privacy and cybersecurity, but
+because the measures fail to find a proper balance of these objectives. The failure to lie in such
+a balance point makes the measures possibly discourage businesses from engaging in digital
+trade in the respective regulatory environments.
+These regulatory measures (or lack thereof) that Pillar 6 flags tend to be more costly if they apply
+to personal data rather than non-personal data. Personal data refers to any information that
+relates to an identified or directly or indirectly identifiable individual. Per this definition, personal
+data are generally (a) sensitive data such as name, surname, email address, identification card,
+IP address, cookie ID as well as health-related data and data revealing racial or ethnic origin,
+beliefs and religion, and (b) pseudonymous or ‘de-identified’ data, i.e., data that make an individual
+identifiable with additional information. By contrast, non-personal data are anonymous data that
+do not relate to an identified or identifiable individual.
+Overregulating personal data flows has a higher opportunity cost than overregulating non-
+personal data flows. Personal data is the basis of cross-border online services such as financial,
+business and IT services. Companies analyse the personal data of their clients to offer the
+services. Furthermore, personal data creates an opportunity for enterprises to improve their
+consumer engagement for online services or other types of digital trade (Anant and others, 2020).
+Personal data, such as location data, websites browsed, searches performed, apps and programs
+used and Internet usage times, allows companies to understand consumers’ needs better. These
+insights, in turn, help to develop new products and services as well as to personalize advertising
+and marketing. In addition, personal data can often be anonymized or aggregated to become non-
+personal data, allowing its use for analytical and innovative purposes without privacy concerns.
+Over-regulating personal data prevents this ""unlocking"" of value."
+6_1;"This indicator asks whether there is a ban on data transfer and a local processing requirement. As
+the business costs arising from a ban and local processing requirements are quite subtle, these
+requirements are classified under the same indicator (Ferracane, 2017).
+‘Ban on data transfers’ prohibits, per se, cross-border transfer of data. ‘Local processing
+requirement’ mandates that businesses process certain data domestically. Processing data refers
+to various activities involving data, such as collection, organization, structuring, storage,
+adaptation, use, disclosure and dissemination (European Commission, 2018a). Moreover, to
+process data locally, foreign companies often need to hire domestic service providers even though
+the companies may already have their own data processors. This constitutes additional costs
+for them. The following are examples of local processing requirements:
+• Australia requires health records that contain personal or identifying information to be
+stored and processed locally;
+• The Republic of Korea requires financial service providers that use cloud services to locally
+process credit and unique identification information of their users; and
+• Thailand requires a credit information company, information controller, or information
+processor operating business in Thailand to control or process information locally.
+The scoring metrics of this indicator have three features: (a) type of data, a requirement that
+applies to personal data will get a higher score than a condition that applies to non-personal
+data; (b) scope of data, a horizontal requirement that applies across sectors will get a higher score
+than a requirement that applies only to a specific sector (such as financial services or
+telecommunication sector) or specific data types (such as accounting data and health records);
+and (c) number of economies, a requirement that applies to a greater number of economies will
+get a higher scope than a requirement that applies to one economy. A measure applied to the
+Government data should not be scored. The indicator focuses on a measure potentially affecting
+commercial transactions."
+6_2;"This indicator asks whether there is a local storage requirement. ‘Local storage requirement’
+mandates that a copy of certain data be stored within the economy. Businesses can transfer data
+across borders as long as a copy of the data is kept within the economy. The following are
+examples of local storage requirements:
+• Australia requires health records that contain personal or identifying information to be
+stored and processed locally;
+• Malawi implements a local storage requirement for health-related data;
+• New Zealand requires registered entities to store specified tax-related records locally; Notably, many countries implement both requirements for sensitive data, like personal and
+financial information. However, some regulations may only require that data be processed locally
+to ensure it is subject to a nation's laws, while still allowing the data to be stored elsewhere after
+processing is complete. Hence, in the case that the law requires both local processing and local
+storage, the measures will be recorded in both places, as in the example of Australia.
+• Salvador requires legal entities operating as data information agencies to maintain their
+databases in the country and to allow access to the superintendence of the financial
+system; and
+• Türkiye requires both domestic and foreign social network providers with over one million
+daily users in Türkiye to store user data within the economy.
+Some examples (such as Australia) show how some economies impose both local storage and
+local processing requirements under the same measure. However, the local processing
+requirements are more demanding than the local storage requirements because a mandate to
+process data locally typically necessitates local storage, while a local storage requirement does
+not necessarily mandate local processing, thus potentially raising the cost more significantly for
+firms.
+The scoring metrics of this indicator have two features: (a) type of data – a requirement that applies
+to personal data will get a higher score than a condition that applies to non-personal data; and (b)
+scope of data – a horizontal requirement that applies across sectors will get a higher score than a
+requirement that applies only to a specific sector (such as financial services or telecommunication
+sector) or specific data types (such as accounting data and health records). A measure applied to
+Government data should not get scored. The indicator focuses on a measure potentially affecting
+commercial transactions."
+6_3;"This indicator asks whether there is an infrastructure requirement. ‘Infrastructure requirement’
+mandates the establishment of a local data centre as a condition to provide certain services using
+data.
+It is important to note that an infrastructure requirement is different from a local storage
+requirement (indicator 6.1). Specifically, the local storage requirement only mandates that data be
+stored within the economy but does not require the service provider to build or own a data centre;
+the provider may rent or use an existing local facility or server. By contrast, infrastructure
+requirement requires the service provider to establish or use dedicated local physical infrastructure
+as a precondition for offering services. The following are examples of infrastructure requirements:
+• Chile requires banking institutions to outsource data processing services outside the
+country to have a contingency data processing centre located within the country.
+• Mongolia requires servers processing sensitive, biometric and genetic data to be physically
+located within the economy and comply with technical and security standards;
+• Kazakhstan requires operators of communications networks to establish a local system
+of centralized management for their networks; and • Viet Nam requires providers of websites, social networks, mobile networks and online
+games to maintain at least one local server."
+6_4;"This indicator asks whether an economy adds other conditions for cross-border data transfer.
+These are another set of conditions that businesses and organizations need to satisfy to transfer
+data across borders. In other words, even if businesses and organizations satisfy the local storage
+or processing requirements, they do not get to transfer data unless they also satisfy the set of
+conditions that this indicator deals with (assuming that the economy imposes these conditions).
+These conditions prevent businesses and organizations from transferring data to economies where
+the level of data protection is not adequate or equivalent to the level of domestic data protection.
+The conditions vary depending on which entity decides whether a particular economy has that
+requisite level of data protection (OECD, 2018). For example:
+• There is no condition attached to cross-border data transfer. Thus, naturally, no entity
+decides the question of the adequacy and equivalence of data protection in economies
+where data gets transferred. In this case, economies often allow data flows freely across
+borders, assuming that businesses and organizations that transfer the data are held
+accountable and liable for possible data breaches that take place in the destination
+economies;
+• Data subjects, who are often individual users, decide whether to allow the transfer of their
+data to a particular economy by providing their consent;
+• Businesses and organizations decide it by evaluating whether a particular economy to
+which data are about to be transferred has an adequate or equivalent level of data
+protection;
+• The Government determines that certain economies have that requisite level of data
+protection.However, to determine which one of these conditions is more costly than the other is difficult. On
+the one hand, the lack of such a condition, the consent mechanism, and the mechanism for
+businesses and organizations’ evaluation on this spectrum of conditions, as shown in figure 16,
+seems to restrict the movement of data less than the mechanism for the Government’s approval.
+This is either because the movement of data lies in the autonomy of individuals (i.e., data subjects)
+or because the decision-making is reserved for businesses and organizations rather than
+the Government. On the other hand, individual users or even businesses may not be competent
+entities for determining which economy has an adequate or equivalent level of data protection;
+rather, it is the Government that is in a better position to determine that question, i.e., which
+economy has an adequate level of data protection.The following are examples of these conditions:
+• Brazil sets out regulations on how financial institutions and other institutions regulated
+by the Brazilian Central Bank should hire cloud computing services from providers that
+store or process information outside Brazil. In the absence of a formal agreement with
+the regulators of the economy where the services are performed, prior authorization is
+required at least 60 days in advance;
+• Palau requires agencies to notify the Ministry of State and obtain individual consent before
+transferring personal information abroad. The Ministry of State shall determine whether to
+prohibit a transfer based on its impact on individuals, the importance of facilitating free
+information flow and relevant international guidelines or treaties;
+• The Republic of Korea requires permission from the Minister of Land, Infrastructure and
+Transport for the transfer abroad of geographical data related to maps or photos produced
+for survey purposes;
+• Singapore requires that the transfer of personal data abroad comply with the Personal Data
+Protection Act (PDPA) obligations. Recipients outside the country must obtain individual
+consent to transfer the data and provide a comparable standard of personal data protection
+as provided in the PDPA; and
+• Uzbekistan allows cross-border personal data transfers if the foreign state provides
+adequate protection, the data subject consents, the transfer protects public order or
+citizens’ rights, or if required by international treaties. The transfers of personal data may
+be restricted in order to protect the constitutional system, the rights and legitimate interests
+of citizens or to ensure national security.
+Accordingly, this indicator differentiates the conditions, not based on types of decision-making
+entities, but based on the two features: (a) type of data, a requirement that applies to personal
+data, will get a higher score than a condition that applies to non-personal data; and (b)
+scope of data, a horizontal requirement that applies across sectors will get a higher
+score than a requirement that applies only to a specific sector (such as financial
+services or telecommunication sector) or specific data types (such as accounting data and health
+records)."
+6_5;"This indicator asks whether an economy has committed itself to agreements with a binding
+commitment on transferring data across borders. The agreement with a binding commitment
+captures all forms (preferential trade agreements or other interoperability initiatives, such as
+treaties and regional agreements) and types (bilateral, plurilateral, or multinational). The binding
+provision is enforceable and obliges the party to comply with the agreed provisions. Participating
+in binding agreements or initiatives safeguards the flow of data and lowers compliance costs. As for trade agreements, the cross-border data flows provision generally focuses on the
+commitments to transfer information, including personal information, by electronic means. The
+data flows provision can be found under various denominations, for example, ‘Cross-Border
+Transfer of Information by Electronic Means’, ‘Cross-Border Information Flows’, ‘Movement of
+Information’ and ‘Free Flow of Data’."
+7;"Pillar 7 deals with policies governing the use of data in the regulating economy. In addition to
+the three policy parameters – business cost, data privacy and data protection – this pillar also
+focuses on cybersecurity (figure 18). Cybersecurity refers to a Government’s enforcement efforts
+to protect organizations, individuals and networks, both in the public and private sectors, from
+digital attacks such as “the unauthorized access, modification and extraction of data, the theft
+of proprietary information and the purposeful incapacitation of critical infrastructure, depending
+on the scale and intention of the attack in question” (PECC and Access Partnership, 2021). Along
+with data privacy and data protection, cybersecurity has a significant impact on digital trust."
+7_1;"This indicator asks whether an economy has adopted a comprehensive data protection legal
+framework that applies to personal data across sectors. The significance of data privacy protection
+lies in its contribution to digital trust and assurance of legal certainty. In this regard, the lack of
+data protection laws will create risks for the data subject and pose challenges for businesses.
+Specifically, the absence of a data legal framework could discourage digital trade because the
+data users become hesitant to entrust their data with businesses on how their rights will be enforced, and the willingness to transfer them to other economies. Businesses and organizations
+can be held liable for the consequences of data breaches.
+The criteria for a ‘comprehensive’ data protection legal framework include broad, cross-sectoral
+(i.e., horizontal) applicability and detailed provisions on the scope and application of rights and
+obligations of data subjects. The comprehensive data protection legal framework empowers
+individuals to control their personal data, such as the right to access, rectification, erasure, and
+data portability, and encompasses various activities, such as data collection, data processing
+and the transfer of personal data across borders.
+Compounding this problem is the fragmentation of data protection requirements across sectors.
+Sectoral data protection obligations, such as in finance, health and education, can be interoperated
+(PECC and Access Partnership, 2021). Often, several sectors are entwined with each other. As
+seen in the rise of FinTech, data privacy threats to communications and IT sectors also constitute
+threats to the finance sector. The education, health and e-commerce sectors are dependent on
+the payments sector, which is, in some jurisdictions, also categorized as a financial entity. Thus,
+the asymmetry of information from different data privacy and data protection requirements across
+sectors may add compliance costs to businesses as they navigate through the complexities of
+regulations.
+In this context, regional agreements encourage establishing personal data protection legal
+frameworks and ensure data privacy protection while facilitating the free flow of data. This
+facilitation often includes mutual recognition of agreement partners' data protection certifications
+or data protection trustmarks32 as a mechanism to transfer data.33"
+7_2;"This indicator asks whether an economy has adopted a dedicated cybersecurity legal framework.
+A cybersecurity legal framework ensures computer security incident response and potentially
+discourages cybercrime, such as malicious intrusions or the dissemination of malicious codes that
+affect the electronic networks. Therefore, the presence of a cybersecurity legal framework ensures
+digital trust and legal certainty.
+The criteria for a ‘dedicated’ cybersecurity legal framework refer to when an economy establishes
+broadly applicable cybersecurity-specific laws (horizontal) or cybersecurity-focused laws applicable
+to specific sectors (sectoral). A dedicated cybersecurity legal framework strengthens enforcement
+against cybercrime offences. Whereas a “non-dedicated” cybersecurity legal framework refers to
+an economy that does not implement specific cybersecurity laws but relies on other laws to govern
+threats arising from cybercrime. This includes laws applicable to the monitoring, detection,
+prevention, mitigation, and management of incidents."
+7_3;"This indicator asks whether an economy imposes a minimum period of data retention
+requirements. The data retention requirements regulate how long a company should keep a copy
+of certain data in order and make it available upon request by the authorities.34
+The purpose behind these requirements is often to help investigations on certain matters, such
+as corporate affairs and tax payments or to reinforce the Government’s law enforcement efforts,
+especially with regard to communication data from telecom companies.
+However, these requirements can pose challenges to achieving a balance among important policy
+objectives for digital trade – namely, business cost, data privacy and cybersecurity. The data
+retention requirements increase compliance burdens on businesses. In particular, MSMEs often
+lack resources to manage data they keep for a substantial period of time per divergent regulatory
+obligations across economies. The availability of data retained for the purposes of various
+regulatory investigations might create the false impression that data retention is necessary. The
+mere convenience of data retention does not necessarily make it necessary. The requirements also undercut data privacy by requiring companies to store personal data for
+a set period, even longer than necessary. In some cases, the data retention schemes have become
+a Government tool for accessing personal data (Rucz and Kloosterboer, 2020). Last, the data
+retention requirements ironically and potentially weaken cybersecurity and digital trust, because
+data retention practices increase data security risks, including data leaks, abuses and misuses.
+For example, potential unauthorized disclosure of, or access to, retained telecommunications data endangers users’ privacy. Hence, users may also be reluctant to engage with companies that will
+store their data for long periods, except in the case of certain types of data for which a long
+retention period is necessary, such as medical records.
+Data retention requirements can set out a ‘minimum period of retention’.
+35 Under the ‘minimum
+period of retention’, firms must retain data for at least a specific period. The prescribed period
+can be days, months or years.36 For example:
+• In Bangladesh, data related to business transactions on e-commerce must be retained for
+6 years from the transaction date.
+• In Botswana, the Financial Intelligence Act requires that information obtained from the
+customers through customer due diligence, account files and correspondence should be
+retained for 20 years from the date the transaction was concluded and after the termination
+of the business relationship;
+• In Botswana, Electronic Payments Services Regulations mandate that information should
+be retained for at least 5 years from the date that the transaction was concluded and after
+the termination of the business relationship;
+• In India, cyber cafés are required to maintain a record of the user identification document,
+duly authenticated by both the user and authorized representative of the cybercafé for at
+least 1 year;
+• In Nauru, service providers are required to store transmitted or host information for up to
+12 months and to actively check for illegal activities to avoid liability;
+• In Malawi, there is a required data retention period of at least 7 years;
+• In Mexico, telecommunications concessionaires must keep the data of their users for
+at least 12 months in a system, and after this period, the data must be kept for an extra
+12 months in an electronic storage system; and
+• In Peru, concessionaires must keep specific telecommunications data related to the
+services provided for a period of 12 months in a computer system, and after this, the
+said data for an additional period of 24 months in an electronic storage system."
+7_4;"This indicator asks whether an economy requires firms to appoint a Data Protection Officer (DPO)
+or perform a Data Protection Impact Assessment (DPIA). The DPOs ensure that a company
+processes personal data in compliance with data protection rules. The DPIA is a process of
+identifying risks of data processing operations on users’ rights.37 For example: • Colombia mandates that data controllers and processors must appoint a person, or
+division within the company, to assume responsibility for the protection of personal data,
+and be in charge of reviewing and solving claims made by data subjects;
+• Ghana’s Data Protection Act requires data controllers to appoint a data protection officer,
+also defined as a data protection supervisor, whose role is to monitor the data controller’s
+compliance with the provisions of the Act;
+• Singapore requires companies to appoint one or more data protection officers to ensure
+the organization’s compliance with the Personal Data Protection Act. Organizations are
+also advised to conduct DPIA before releasing products or services that are likely to be
+accessed by children in order to meet the Accountability Obligation under the Personal
+Data Protection Act; and
+• Türkiye requires companies to appoint “a data controller” who will be responsible for
+compliance under the Protection of Personal Data Law. If a controller is outside Türkiye, a
+local representative must be appointed. While DPO or a formal DPIA is not mandated,
+organizations registered in the Data Controllers Registry (VERBIS) must designate a
+contract person to communicate with the data protection authority. Data controllers are
+also required to take technical and administrative measures to ensure personal data
+security, including risk assessments.
+While the purpose of these requirements is to ensure the data privacy of individual users and
+reinforce data protection, the measures may be costly. Firms, especially MSMEs, may struggle
+to hire a DPO with expertise in compliance with data laws across economies. Compounding
+this is that, unlike the European Union’s General Data Protection Regulation (GDPR), data
+protection laws in developing economies often fragment. It is difficult for a DPO, even if appointed,
+to navigate through divergent data protection laws. A less costly alternative could be to make
+the appointment voluntary as an option to show companies’ data privacy policies and practices."
+7_5;"The indicator asks whether the Government can access personal data without the explicit
+authorization of an independent judicial body, such as a court decision, a judicial warrant
+or an equivalent order issued by a truly independent tribunal with due process safeguards. The
+lack of judicial oversight of this discretionary power could violate fundamental rights and thereby
+minimize trust in the digital environment. Government interference in one user’s data may also
+create exploitable vulnerabilities in other accounts, such as:
+• Cambodia mandates all telecommunications operators and related persons to provide
+telecommunications and ICT service data to the Ministry of Post and Telecommunications.
+Secret surveillance of telecommunications is allowed with the authorized of a legitimate
+authority. However, there is no definition of what constitutes a “legitimate authority,”
+whether it is judicial authority, or the basis on which such authority is competent to approve
+surveillance;
+• In Cuba, although exceptionally, the criminal investigator may use electronic surveillance
+as an investigative technique without the authorization of the Attorney General of the
+Republic;
+• India requires ISPs to maintain a log of all users connected to their services. The ISPs
+must provide a complete list of subscribers with password-controlled access to the
+authorized intelligence agencies at any time; and
+• Sri Lanka requires that all digital cellular mobile service operators are obligated to provide
+access to their databases or networks upon request by the Telecommunications
+Regulatory Commission for the purpose of obtaining subscriber information and data."
+8;"Pillar 8 deals with measures governing intermediary liability. ‘Internet intermediaries’ can be
+defined as “the intermediaries that bring together or facilitate transactions between third parties
+on the Internet.38 They give access, transmit and index content, or provide Internet-based services
+to third parties.” In this regard, they facilitate digital trade. The intermediaries include Internet
+service providers (ISPs) and Internet content providers (ICPs).39
+Often, the regulation of Internet intermediaries is based on the interest of reducing illegal content
+over the Internet and holding perpetrators accountable. However, imposing onerous liability or
+certain obligations on the Internet intermediaries would likely discourage them from participating
+in digital trade in the regulated economy. Pillar 8 deals with regulatory measures that stand on an
+ill-placed balance of these two competing objectives, as shown in figure 20."
+8_1;"This indicator asks whether an economy has a safe harbour provision for copyright infringement.
+A safe harbour provision protects the Internet intermediaries from legal liability for certain activities
+performed by their users. Without this provision, the Internet intermediaries hosting content in
+violation of copyrights will be, per se, legally responsible for their users’ activities even when the
+intermediaries do not notice it. This may discourage investment in digital platforms. Furthermore,
+the safe harbour regime supports the emergence of innovative services as it provides
+intermediaries with legal certainty to conduct a wide range of activities, with less threat of potential
+liability and a less chilling effect of potential litigation. This provision that protects the intermediaries from legal liability for copyright-infringing materials
+can take various forms under sector-specific laws (e.g., for telecommunications or e-commerce
+service providers) 40 or be applied broadly across all sectors:
+• The intermediaries are protected from legal liability for copyright-infringing materials in their
+platforms, and illegal activities are forbidden by different laws unless the intermediaries
+contributed to them or had notice of them beforehand. For example, for safe harbour
+provisions for copyright infringements, New Zealand’s Copyright (New Technologies)
+Amendment Act protects ISPs from copyright-infringing content created by their users, if
+they do not have specific knowledge of the infringement or immediately make such content
+unavailable upon notice;
+• The intermediaries are protected from legal liability for copyright-infringing materials in their
+platforms as well as illegal activities under the same law. For example, Japan’s Act on
+Measures Against Rights Infringement, etc. Arising from Distribution of Information by
+Specified Telecommunications (Act No.137 of 2001) protects telecommunications service
+providers from liability for damages caused by the distribution of information by specified
+telecommunications to the right of others unless it is aware of or has a good reason to be
+aware of the infringement. The telecommunications service providers also protect from any
+damage caused by the deletion of content on their networks if they reasonably believe that
+the content infringes intellectual property or t h e privacy of others, or if they sent a notice
+to the users of such content and have not received a response within seven days; and
+• The intermediaries are protected from legal liability for copyright-infringing activities but not
+for illegal activities. For example, the Republic of Korea’s Copyright Act protects online
+service providers (ISPs and online hosts) from copyright infringement if it is technically
+impossible for them to take measures as prescribed in the listed requirements. Still, there
+is no safe harbour regime for other activities apart from copyright infringement."
+8_2;"This indicator asks whether an economy has a safe harbour provision for illegal activities other
+than copyright infringement. As mentioned, a safe harbour provision protects the Internet
+intermediaries from legal liability for certain activities performed by their users. Without this
+provision, Internet intermediaries hosting illegal content other than copyright infringement will
+be, per se, legally responsible for their users’ activities even when the intermediaries are not noticed
+of it. This may discourage investment in digital platforms. Furthermore, the safe harbour regime
+supports the emergence of innovative services as it provides intermediaries with legal certainty
+to conduct a wide range of activities, with less threat of potential liability and a less chilling effect
+of potential litigation. The provision that protects the intermediaries from legal liability for activities apart from the
+copyright-infringing materials can take various forms under sector-specific laws 41 (e.g., for
+telecommunications or e-commerce service providers) or be applied broadly across all sectors:
+• The intermediaries are protected from legal liability for copyright-infringing materials on
+their platforms and from illegal activities forbidden by different laws, unless the
+intermediaries contributed to them or had notice of them beforehand. For example, for
+other illegal activities apart from copyright infringements, New Zealand’s Harmful Digital
+Communication Act provides protection to an online content host for illegal content posted
+by its users; and
+• The intermediaries are protected from legal liability for copyright-infringing materials on
+their platforms and from illegal activities under the same law. For example, Japan’s
+Act on Measures Against Rights Infringement, etc. Arising from Distribution of Information
+by Specified Telecommunications (Act No.137 of 2001) protects telecommunications
+service providers from liability for damages caused by the distribution of information by
+specified telecommunications to the right of others unless it is aware of or has a good
+reason to be aware of the infringement. The telecommunications service providers also
+protect from any damages caused by the deletion of content on their networks if they
+reasonably believe that the content infringes intellectual property or the privacy of others,
+or if they sent a notice to the users of such content and have not received a response within
+seven days."
+8_3;"The indicator asks whether an economy imposes user identity requirements. The ‘user identity
+requirement’ mandates that Internet intermediaries verify and record accurate personal information
+of their users as a condition for accessing their services or networks. This measure includes
+collecting, storing and sometimes authenticating identifying documents or other identifying data.
+Such a measure can be costly in that the intermediaries are obliged to act as “gatekeepers” of the
+Internet, policing their users on behalf of the Government. This requires substantial efforts for the
+intermediaries to ensure that their users supply accurate personal information. For example:
+• Argentina states that mobile communications service providers must store and systematise
+users’ personal information in a registry of mobile service subscribers. Information that must
+be provided includes the name, surname, national identity document and address of users;
+• Bangladesh requires that social media intermediaries providing messaging services enable
+the identification of the first originator of information and retain user registration data for
+180 days after cancellation; • Rwanda requires electronic communications service providers to ensure that their users
+supply accurate personal information when using a service or a network according to
+the Law Governing Information Communication and Technologies;
+• Tajikistan requires users to present identity documents, such as passports or registration
+certificates, when concluding contracts for electronic communication services. Operators
+and providers must verify these documents before offering services.
+• Uganda’s Regulation of Interception of Communications Act requires intermediaries to
+collect customer information (name, address, identification number), install surveillance
+equipment and disclose information to the authorities upon the presentation of a warrant
+or a demand from the Minister for Information and Communications Technology and
+National Guidance; and
+• In Venezuela, operators that provide mobile telephony services (prepaid or post-paid) must
+require their subscribers to provide personal information when contracting the referred
+service – for instance, their personal identification number, address, signature and
+fingerprints;"
+8_4;"The entry asks whether an economy imposes content monitoring requirements. The ‘monitoring
+requirement’ mandates that Internet intermediaries actively monitor the users’ activities or
+remove or block content that is deemed illegal to avoid legal liability due to such content.
+Similar to the user identity requirement, intermediaries are obliged to act as “gatekeepers” of the
+Internet, policing their content on behalf of the Government. Monitoring requirements can be
+explicit or indirect, such as requiring intermediaries to install software, algorithms, or other
+technological tools to detect or manage prohibited content. This responsibility demands
+substantial efforts for the intermediaries to monitor anything that is posted, shared or transferred
+by the users through the platform, and thereby could incur the cost. For example:
+• Georgia requires internet site owners to periodically review links on their sites to ensure
+that the linked content does not contain offensive or inappropriate material, and to take
+appropriate measures to remove such content;
+• Kazakhstan requires online platform providers to enhance content moderation systems
+and artificial intelligence algorithms to counter the placement and distribution of illegal
+content. The providers shall regularly report on moderation activities and user complaints;
+• Lao PDR requires ISPs to be authorized to inspect the activities of their users and warn,
+stop or impose discipline. The website owners or website managers should also check
+their content thoroughly before allowing others to disseminate the content through their
+websites; and
+• Nepal mandates social network platform operators to verify the facts of content published
+or broadcasted on the platforms."
+9;"Pillar 9 deals with requirements on content access, which is somewhat connected to Pillar 8,
+Internet intermediary liabilities. Regulations of content access are based on the interest of reducing
+illegal content on the Internet. However, heavily regulated content access measures would
+increase the costs for intermediaries to operate Internet-related services and the costs of service
+interruption. Pillar 9 deals with regulatory measures that stand on an ill-placed balance of these
+two competing objectives, as shown in figure 22."
+9_1;"This indicator asks whether there have been any instances of blocking or filtering commercial web
+content either by a Government or Internet intermediaries as required by the Government:
+• ‘Blocking’ means denying access to a certain commercial website in its entirety;
+• ‘Filtering’ is limiting access only to certain online content on a given website.
+Generally, a Government blocks or filters websites or web content on the grounds of ‘public
+morality’ or ‘national security’ in order to prevent or respond to online security threats, such as
+malicious network traffic. Limiting content access of commercial websites or web content
+based on broadly defined public policy grounds without clear and/or objective criteria constitutes a
+substantial burden on businesses and online users because of the uncertainty of regulation and
+additional costs in managing their websites. For example:
+• Brunei Darussalam bans or requires licensed Internet service providers and online content
+providers to use “their best efforts” to ban online content that is against the public interest
+or national harmony; and
+• Türkiye empowers the authorities to block or remove online content for reasons including
+national security, public order, and crime prevention. Social network providers with over
+one million daily users must remove or block illegal content within 24 hours of notification
+and respond to user complaints within 48 hours. Failure to comply can result in
+administrative fines, advertising bans, or bandwidth throttling."
+9_2;"This indicator asks whether an economy imposes Internet shutdowns and the presence of Internet
+shutdowns occurring in the economy. Internet shutdowns refer to an international disruption of
+the Internet or online services to prevent access to information, services and products. The
+shutdowns can be implemented in specific parts or areas within the economy. By implementing
+this measure, it has a large impact on the possibilities of doing business as well as affecting the
+users."
+9_3;"The indicator covers requirements for online advertising. The measures could be limitations
+affecting online advertising, but exclude general consumer protection measures, such as
+prohibitions on misleading or false advertising, and restrictions on specific products and services
+(e.g., weapons, drugs, tobacco, alcohol, or medicine) for public health or safety reasons. The
+regulation that is silent about the scope of the application of requirements on advertisements can
+be considered as also being applied to online advertising, unless it is clear that the rule applies
+only to offline advertisements.44 For example:
+• The Marshall Islands mandates that advertisements must be published in both Marshallese
+and English, with Marshallese appearing first. Such advertisements must acquire approval
+from the Customary Law and Language Commission;
+• Kazakhstan prohibits advertisements that contain a comparison of the advertised goods
+(work and service) with the goods (work and service) of other individuals or legal entities,
+as well as statements, images, discrediting their honour, and digital and business
+reputation; and
+• The Russian Federation requires online advertising distributors, ad placement service
+owners, and aggregators of goods and services to allocate at least 5% of their annual
+advertising volume to unpaid social advertising, as well as report daily user access and
+advertising volumes.
+• Uzbekistan prohibits advertisements that show prices in foreign currency."
+9_4;"This concerns a licensing scheme applicable to certain online service providers. In this context,
+online service providers refer to the following ICPs and applications:
+• Social media platforms;
+• News providers (e.g., media and broadcast services);
+• Virtual Private Network (VPN); and
+• Cloud services, etc.
+This indicator excludes telecommunication facilities and service providers, which are already
+covered by Pillar 5, as well as e-commerce platforms, which are covered by Pillar 12. It asks
+whether (a) the ICPs are subjected to licensing requirements to operate their business, and
+(b) whether the licensing requirement is considered as a “strict” requirement, in that they
+have the potential to block businesses from operating their services. A strict licensing scheme refers to a regime where the conditions for obtaining a license include
+requirements that significantly limit market access or competition. Such conditions go beyond
+normal regulatory standards and may involve requirements, such as commercial presence
+requirements, nationality or residency requirements, excessively high minimum paid-up capital,
+and technical or infrastructure requirements that mandate the use of government-approved
+systems, local data storage, or proprietary technology, which may be costly or restrictive.
+Examples of strict licensing schemes:
+• Indonesia requires Internet of Things (IoT) service providers to obtain a license or partner
+with a licensed telecom operator. The IoT service providers must implement a unique
+addressing system, including but not limited to a local Mobile Station International
+Subscriber Directory Number (MSISDN), device end-user ID, or IP number;
+• Pakistan requires a license for broadcasting media and distribution services. However,
+such a license is prohibited to a person who is not a citizen or a resident in Pakistan, a
+foreign company, a company with the major shares owned or controlled by foreign natural
+or juristic persons, and any person funded or sponsored by a foreign Government or
+organization; and
+• Viet Nam requires an aggregate of sites and social networks to be operated by companies
+legally established in Viet Nam and meeting technical and operational standards in order
+to register for a license from the Ministry of Information and Communication."
+10;"Pillar 10 captures non-technical NTMs, including measures other than tariffs or taxes that limit
+the importation and exportation of ICT goods and online services from the economies within the
+considered United Nations region. These measures, such as bans, quotas and licensing
+procedures, could reduce the flow of ICT goods and online services.
+Some of such measures are put in place based on the interests of protecting public order,
+cybersecurity and national security. For example, import bans on certain applications are designed
+to cut off cybersecurity as well as national security threats that they pose to the domestic networks.
+Certain export bans prohibit exports of certain ICT products and technologies that the
+economies consider to be vital to the interests of their nations. Other measures under this Pillar
+are for the purpose of guarding the domestic market against potential foreign market power. For
+example, local content requirements imposed on imports push foreign suppliers to acquire
+components that are to be built into their products from domestic suppliers. However, these policy
+objectives stand in tension, as shown in figure 24."
+10_1;"This indicator looks at import bans on ICT goods and online services. It covers bans that
+specifically target ICT goods and online services, as well as broader bans affecting multiple goods
+or services that include ICT products and online services. "
+10_2;"This indicator covers import restrictions, excluding other than import bans and local content
+requirements on imports:
+• Measures such as import quotas are trade-blocking, limiting the volume of ICT goods or
+online services that can be imported;
+• Measures such as import licensing schemes and procedures do not necessarily block
+imports per se, but discourage the trade in ICT goods. They create additional costs and
+delay the import process. For example, in Argentina, non-automatic import licenses for ICT
+goods such as machines and apparatuses for the manufacture of semiconductors entail a
+more complex import process, in which additional documentation and the intervention of
+technical agencies can take place. In Haiti, individuals of foreign nationality involved in
+importing are obliged to obtain a license, which must be renewed at the start of every fiscal
+year. In Botswana, the Communications Regulatory Authority (BOCRA) is mandated to
+approve communications equipment that may be connected, used or operated to
+provide broadcasting or telecommunications services in Botswana. Additionally, in
+Pakistan, only the Pakistan Television Corporation and other authorities licensed by the
+federal government are permitted to import transmission equipment for radio or TV, TV
+cameras, digital cameras, and video recorders."
+10_3;"This indicator covers ‘local content requirements’ (LCRs), i.e., requirements to use domestically
+manufactured goods or domestically supplied services in the production of ICT-related goods
+and online services. The LCRs under this Pillar do not include the measures implemented for
+public procurement tenders, which are covered by Pillar 2. For example: • Argentina has local content requirements for certain products (such as technical manuals,
+packaging and labels) in the production of mobile and cellular radio communication
+equipment operating in Tierra del Fuego province;
+• Bhutan requires Over-the-Top (OTT) service providers to ensure that at least 60% of their
+content is local, promoting culturally and socially relevant material produced within the
+economy;
+• India requires single-brand retail businesses, including e-commerce with physical stores,
+to source at least 30% of the value of their goods from India in order for foreign investors
+to own more than 51% of the company.
+• Indonesia requires digital TV receivers and protocol set-top-boxes with a minimum local
+content requirement of 20% and a gradual increase to 50% within five years."
+10_4;"This indicator covers export restrictions on ICT goods and services. These restrictions include
+export bans, export licenses and other restrictions limiting the number of goods or services to
+be exported. For example:
+• Armenia, Georgia, India, Kyrgyzstan and the Republic of Korea require export licenses
+for strategic items, including dual-use goods such as computers, telecom equipment, and
+information security products;
+• Colombia prohibits the export of smartphones, with some exceptions such as mobile
+phones that are personal possessions of travelers, among others;
+• Hong Kong, China, imposes export permits on radio transmitting apparatus; and
+• Thailand requires an export license for radio communication equipment and ancillary
+devices."
+11;"Pillar 11 covers technical standards and related procedures that can function as a trade restriction
+on ICT goods and online services in a digital economy, specifically in the telecommunication
+sector. Technical standards ensure the effectiveness of products and consumer safety by setting
+out the minimum requirements necessary to ensure the quality of products or services. However,
+disparate technical standards and related procedures across the region undermine this
+interoperability and thereby discourage digital trade due to higher trade costs and delayed
+processes. Adopting technical standards that are internationally recognized as best practices
+increases the interoperability of products and services across the region (figure 26)."
+11_1;"In developing an open and transparent standards regime, all relevant stakeholders should be able
+to engage and provide comments. This indicator asks whether (a) participation from relevant
+stakeholders, including foreign businesses, is not allowed or restricted in the standard-setting of
+the standards in sectors relevant to digital trade, and (b) whether there are transparent public
+consultation or engagement mechanisms exist. Restrictions may include, for example:
+• The limit on foreign participation. For example, in Cuba, foreign companies are not allowed
+to participate in institutional bodies that establish and regulate trade norms. Egypt requires
+that the board of directors of the National Telecommunication Regulatory Authority is
+authorized to set standards for telecom equipment without foreign participation; and
+• The lack of institutional transparency. This can be found in various forms, such as the
+absence of clear consultation processes or the lack of public notification to invite
+stakeholder input."
+11_2;"This indicator asks whether the self-certification of product safety by suppliers is not allowed.
+Certification refers to a process of verifying that imported products meet domestic standards. For
+instance, electrical products generally must comply with domestic standards of radio
+transmissions, electromagnetic interference (EMI) or electromagnetic compatibility (EMC).47
+Economies allow the self-certification of the products to a varying degree. Generally, economies
+implement the following measures for self-certification and third-party certification. These
+processes result in the issuance of a certificate or declaration of conformity for the imported
+products:
+• Self-certification through ‘Supplier’s Declaration of Conformity’ (SDoC) ensures
+compliance with the prescribed domestic standards;
+• Third-party certification from ‘Conformity Assessment Bodies’ (CABs) does away with
+the need for local testing of the products to be exported. Generally, economies that are
+members of a Mutual Recognition Agreement (MRA), such as the ASEAN MRA for
+Electrical and Electronic Equipment (ASEAN EE MRA) and APEC MRA for Conformity
+Assessment of Telecommunications Equipment (APEC TEL MRA), maintain reciprocity in
+recognizing CABs in their territories (ASEAN, 2012; FCC, 2016)."
+11_3;"The indicator asks whether an economy imposes an additional screening or testing requirement
+on ICT imports. Additional screening or testing refers to processes where products are required to
+undergo further technical tests beyond standard conformity assessments to verify certain aspects
+of compliance before they are allowed into the market. The declared justifications for these
+requirements are often about national security.48 For example:
+• The Gambian standards generally require local testing for electrical products for
+certification. Audio and video products such as televisions, LCD panels and similar
+apparatus marketed in The Gambia are required to undergo local testing. Audio and video
+products are certified only after conformity assessments have been carried out by The
+Gambia Standards Bureau (TGSB);
+• India requires in-economy security testing on all telecom equipment before sale, import, or
+use. Testing must be conducted by those designated by the Telecom Engineering Center
+(TEC), and certificates are issued based on their test reports; and
+• Sri Lanka requires importers of designated goods, such as primary cells, batteries, and
+PVC-insulated non-armoured cables, to submit documentation to Customs and the Sri
+Lanka Standards Institution (SLSI) before clearance. Product samples must undergo
+testing for conformity with Sri Lankan standards. These products cannot be distributed
+without prior approval from the Director General of the SLSI.
+"
+11_4;"The indicator asks whether an economy adopts encryption standards that deviate from
+internationally recognized standards based on the principles in the International Organization for
+Standardization (ISO) and International Electrotechnical Commission (IEC) encryption standards. Encryption (or encipherment) is the process of encoding a message or information with an
+algorithm by converting original text (known as plaintext or cleartext) to an alternative form
+(known as ciphertext).49 Decryption, in turn, is the reverse process of accessing the plain text of
+the encrypted message, requiring a password or a ‘private key’. The objective of encryption is to
+secure data and prevent data breaches. The encryption strength is based on the key’s length,
+block size and design.
+To determine whether an economy’s encryption requirements deviate from internationally
+recognized standards, the assessment is based on the ISO/IEC standards relevant to encryption,
+particularly ISO/IEC 18033 series (encryption systems), 50 and ISO/IEC 11770 series (key
+management).
+51 Deviations may occur in the following cases, for example:
+• Algorithm. The requirement to use encryption algorithms not listed in the encryption
+standards, such as the requirement to adopt domestic encryption algorithms. The
+ISO/IEC 18033 specifies the recognized algorithms, such as TDEA, MISTY1, CAST-128,
+HIGHT, AES, Camellia, and SEED;
+• Block size requirements. The requirement to use block sizes below the ISO/IEC 18033
+recommended minimums, i.e., lower than 64-bit block cyphers and 128-bit block cyphers;
+• Key length. The requirement to use weaker keys than ISO/IEC 18033 recommended,
+which are 128 bits or more for symmetric encryption;
+• Key management. The requirement to use key management is not listed in the ISO/IEC
+11770. The criteria are broad, such as key methods for asymmetric key include RSA-based
+key transport, and Elliptic Curve Cryptography (ECC)-based key exchange; and
+• Disclosure of proprietary information. The disclosure of trade secrets (e.g., source
+code, encryption keys) when certifying encryption products beyond the established
+measures under the ISO/IEC validation requirements (ISO 19790 and ISO 24759).
+ISO/IEC standards include testing and validation of cryptographic modules, but do not
+mandate trade secrets disclosure.
+Note that the registration and licensing requirements in order to use, import, or distribute an
+encryption device are not considered as a restriction under this indicator if the conditions do not
+include issues mentioned above. Instead, such licensing requirements shall be covered under
+other pillars, such as pillar 9 and pillar 10."
+12;"Pillar 12 captures requirements for online sales and transactions. The steady increase in online
+sales and transactions over the years, both in developed and developing economies, reflects
+how critical these flows have become for digital trade. Measures surrounding electronic commerce
+in the areas of foreign investment, online sales, delivery, licensing requirements, online payment,
+de minimis rule, domain names and local presence requirements may limit digital trade as these
+are essentials to set up and operate an e-commerce business in the regulating economy.
+Furthermore, the lack of legal recognition for electronic communication, signatures and
+transactions cuts back digital trust and undermines the interoperability of e-commerce businesses
+in the region. Finally, the presence of consumer protection laws in the e-commerce sector
+increases consumer trust and, thereby, participation in digital trade by foreign vendors in the
+regulating economy."
+12_1;"This indicator concerns the maximum foreign equity shares in the specific sector of e-commerce.
+Foreign equity shares are shares that foreign natural or legal persons hold in a firm incorporated
+in the investee economy. Limitation on foreign equity shares is a direct obstacle for foreign
+investors that could induce a higher level of development in the e-commerce sector. For example,
+the Philippines bans foreign ownership of retail trade enterprises with paid-up capital of less
+than US$ 2.5 million.
+In particular, the foreign equity shares under this Pillar do not include the foreign equity shares
+in other sectors relevant to digital trade or the telecommunication sector, which are captured in
+Pillars 3 and 5, respectively. According to a specific focus on e-commerce, the scoring metric
+on State-owned enterprises is not included."
+12_2;"The indicator covers direct requirements on online purchases and the requirements on the delivery
+of products bought online that affect consumers or retailers. The measures could be:
+• Specific limits on the number of goods imported by customers through e-commerce
+platforms. For example, Brazilian Customs have established express services with
+maximum per-shipment value limits of US$ 3,000 for imports, while in Argentina,
+consumers can purchase goods valued at up to US$ 50 per month tax-free, with an annual
+tax-free limit of US$ 600. If the monthly purchase total exceeds US$ 50, the consumer
+must pay a 50% tax on the value above the US$ 50 threshold;
+• Specific limits on the number of goods to purchase through e-commerce platforms; and
+• Limitations on the delivery of products bought online applied to the delivery company.
+For example, Indonesia prohibits foreign postal operators from operating intercity delivery
+services and requires them to cooperate with local delivery service companies for
+deliveries at the provincial level; and
+• Limitations on the delivery of products bought online applied to the users, such as
+restrictions on how, where or when consumers can receive deliveries.
+This indicator does not cover measures related to taxation, customs duties, or fees imposed on
+online purchases or deliveries. Limitations on online purchases and delivery that are applied
+specifically for consumer protection purposes, such as restrictions on alcoholic beverages,
+tobacco, and pharmaceuticals, are not considered as a restriction under this indicator. In addition,
+measures related to foreign direct investment (such as foreign equity caps, commercial presence
+requirements) targeting companies, such as delivery service providers, are excluded from this
+indicator and should instead be recorded under the relevant indicators in Pillar 3."
+12_3;"The indicator covers any licensing scheme for e-commerce providers, including both business-to-
+business (B2B) and business-to-consumer (B2C) platforms. Given the diverse licensing landscape
+within the e-commerce sector, this indicator specifically focuses on the license imposed on e-
+commerce businesses. Licenses pertaining to other aspects of e-commerce businesses, such as
+a license to operate online payment services and delivery, are not captured.
+For example:
+• Bhutan mandates that a company or a Bhutanese individual aged 18 or older must obtain
+a license to operate an e-commerce business. Prior approval from the Department of Trade
+is required for those wishing to operate a national e-commerce portal or platform;
+• Colombia requires web pages and Internet sites of Colombian origin whose activity is of
+a commercial, financial or service nature to be registered in the commercial registry, and
+to provide the National Tax and Customs Directorate with information on their economic
+transactions;
+• The Lao PDR requires e-commerce businesses, both B2B and B2C, that trade through
+their platforms or electronic marketplaces to obtain an acknowledgement certificate from
+the Ministry of Industry and Commerce. Electronic marketplaces must also be incorporated
+entities, obtain an e-commerce business license from the Ministry, and secure a technical
+conformity certificate from the Ministry of Technology and Communications; and
+• Türkiye requires that e-commerce service providers with annual net transactions of more
+than 10 billion Turkish Lira and 100,000 transactions excluding cancellations and returns
+are required to obtain a license from the Ministry."
+12_4_1;"Requirements to use a local bank account;"
+12_4_2;"Requirements on the currency used for international payments;"
+12_4_3; National standards for payment security that deviate from international standards
+12_4_4;"Licensing requirements with restrictive conditions (such as local incorporation
+requirements, nationality restrictions, or limitations on the types or numbers of licenses
+that can be obtained);"
+12_4_5;"Ceilings on the maximum amount that can be paid by electronic payment methods; "
+12_4_6;Requirements mandating the use of specific intermediaries for online payments.
+12_4_7;Other requirements
+12_5;"The indicator asks whether an economy adopts a threshold for the de minimis rule. The de minimis
+rule sets a valuation ceiling for goods below which no duty or tax is charged at the border to ensure
+the flow of digital trade. According to the International Chamber of Commerce (ICC)
+recommendation of establishing a global baseline of de minimis value, the index calculates the
+valuation ceiling based on a US$ 200 threshold (ICC, 2016)."
+12_6;"This indicator asks whether an economy imposes customs duties or cross-border duties on
+electronic transmission. The electronic transmission could refer to the import and export of digital
+products by electronic means.55
+Legal mechanisms or regulations allowing for the imposition of such duties, even if current tariff
+lines are zero, will be considered. For example, in Indonesia, no customs duties are currently
+imposed on electronic transmissions. However, the economy has established regulations, which
+classify intangible goods which are delivered via electronic transmission, such as software,
+electronic data, and multimedia, under specific HS codes (Heading 99.01) with a 0% duty rate,
+indicating a legal framework for such duties exists."
+12_7;"The indicator covers requirements on commercial domain names.56 These requirements may have
+costs of compliance. They include requirements for companies to have a local domain name to
+engage in electronic retail in a certain market, requirements to establish a local presence as
+a condition for using a local domain name, and requirements to appoint a local representative.
+For example:
+• In Brazil, foreign companies aiming at registering a domain must have a representative in
+the country to register before the country’s official registry administrator for domain names;
+• New Caledonia restricts the registration of “.nc” domains to individuals and legal entities
+established in the territory. Individuals must have resided in New Caledonia for at least 6
+consecutive months, while legal entities must have a registered office or branch locally.
+Moreover, all applicants must appoint an administrative contact based in New Caledonia
+who can legally receive judicial or extrajudicial notifications; and
+• Viet Nam requires licensed online newspapers, websites, web portals and social
+networking sites to use the “.vn” domain name.
+All commercial country-code top-level domains (ccTLDs) and their sub-domains are included.
+However, the domain names for government agencies, military, educational institutions or other
+organizations, namely ‘.gov’, ‘.mil’, ‘.edu’ or ‘.org’, are not listed because they do not focus on
+commercial activities."
+12_8;"This indicator asks whether an economy imposes local presence requirements on online service
+providers. The ‘local presence requirement’ requires companies to have a physical representative
+office, local agent, legal representative or a post-box within the economy to provide their services.
+This indicator focuses on the requirements that serve as a precondition for foreign companies to
+provide online services across borders (Mode 1), without ever establishing a physical office.
+This requirement differs from the commercial presence requirement (Mode 3). While the
+commercial presence involves establishing a local subsidiary or branch, the local presence
+requirement only mandates administrative representation (e.g., an agent or contact point) when
+foreign providers deliver services digitally or remotely.57
+It is important to note that requirements to maintain a registered office or registered agent,
+typically arising under corporate law, they are not considered local presence requirements
+recorded under this indicator, as they apply only when a company has already established a legal presence (Mode 3). This means the requirements are not preconditions for cross-border online
+service provisions (Mode 1). In other words, this indicator only counts rules that require a foreign
+online service provider to have a local contact point as a condition for providing services remotely,
+even without having a physical office.
+When both local presence and commercial presence requirements are imposed under the same
+law (e.g., a law requires a foreign provider to register as a legal entity and appoint a local
+representative), the measure should be classified as a commercial presence requirement because
+the establishment of a local entity is the stronger obligation. The appointment of a representative
+is inherent once a company establishes itself locally.
+For example:
+• Indonesia requires Private Electronic System Operators (ESOs) to register their
+businesses at the relevant ministry. The ESOs should appoint liaison officers who have a
+domicile in Indonesia to facilitate any access request by the government authorities;
+• The Republic of Korea requires foreign IT service providers without a physical office in the
+economy to designate a local agent responsible for data privacy compliance; and
+• Türkiye requires foreign-based social network providers whose platforms are accessed from
+within Türkiye more than one million times a day to appoint a real or legal person
+representative locally."
+12_9;"This indicator asks whether an economy has adopted an online consumer protection legal
+framework. The domestic laws of consumer protection need not be specific to e-commerce.
+A law that applies to transactions across sectors for the purpose of protecting consumers can
+extend to e-commerce transactions under its umbrella. The consumer protection law applicable to
+online purchases can be found within the same protection provided to offline transactions or in a
+separate regulation."
+12_10;"The indicator asks whether an economy has signed and ratified the United Nations Convention on
+the Use of Electronic Communications in International Contracts (2005) (the Electronic
+Communications Convention). The Electronic Communications Convention is a binding treaty
+which requires member economies to recognize the legal validity and enforceability of
+electronically concluded contracts and other communications exchanged electronically
+(UNCITRAL, 2018c)"
+12_11;"The indicator asks whether an economy has adopted the UNCITRAL Model Law on Electronic
+Commerce (1996) (MLEC). The MLEC is a model law on which an economy may base its
+legislation fully or in part. The MLEC establishes rules for the formation and validity of contracts
+concluded by electronic means, attribution of data messages, acknowledgement of receipt, and
+determining the time and place of dispatch and receipt of data messages"
+12_12;"The indicator asks whether an economy has adopted the UNCITRAL Model Law on Electronic
+Signature (2001) (MLES). Similar to the MLEC, the MLES is a model law on which an economy
+may base its legislation fully or in part. The MLES establishes criteria of technical reliability for
+the equivalence between electronic and hand-written signatures as well as basic rules of conduct
+that may serve as guidelines for assessing duties and liabilities for the signatory, the relying party
+and trusted third parties intervening in the signature process "
+12_13;"This indicator asks whether an economy has adopted the UNCITRAL Model Law on Electronic
+Transferable Records (MLETR) (2017). The MLETR is a model law on which an economy may base
+its legislation fully or in part. The MLETR ensures functionally equivalent to transferable documents
+or instruments. Transferable documents or instruments are paper-based documents or instruments
+that entitle the holder to claim an obligation and transfer that claim by handing over the document.
+Examples typically include bills of lading, bills of exchange, promissory notes and warehouse
+receipts"

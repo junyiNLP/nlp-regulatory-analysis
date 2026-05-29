@@ -1,0 +1,172 @@
+{
+  "pillar_name": "Online Sales and Transactions",
+  "pillar_id": 12,
+  "keywords": [
+    "online sales", "e-commerce", "digital trade", "online transactions",
+    "online payments", "cross-border payments", "consumer protection",
+    "online service providers", "electronic contracts", "digital marketplace",
+    "UNCITRAL", "electronic communication", "electronic signature",
+    "domain name", "custom duties on electronic transmission",
+    "local presence", "B2B", "B2C", "e-payment", "De Minimis"
+  ],
+  "indicators": {
+    "12_1": {
+      "desc": "Foreign equity limits in e-commerce sector",
+      "keywords": [
+        "foreign equity", "foreign investment restriction", "ownership cap",
+        "e-commerce investment", "equity limit", "foreign participation restriction"
+      ],
+      "negatives": []
+    },
+    "12_2": {
+      "desc": "Online purchases and delivery limitations",
+      "keywords": [
+        "online purchase restriction", "delivery limitation", "cross-border delivery",
+        "digital goods delivery", "e-commerce logistics", "online shipping restriction"
+      ],
+      "negatives": [
+        "pharmaceutical", "tobacco", "alcoholic beverage", "consumer protection exception"
+      ]
+    },
+    "12_3": {
+      "desc": "Licensing scheme for e-commerce providers (B2B and B2C)",
+      "keywords": [
+        "e-commerce license", "online business license", "B2B platform license",
+        "B2C license", "registration of online business", "platform authorization"
+      ],
+      "negatives": [
+        "payment service license", "telecommunication service license"
+      ]
+    },
+    "12_4_1": {
+      "desc": "Online payment limitations: mandate local bank account",
+      "keywords": [
+        "local bank account requirement", "payment gateway localization",
+        "payment settlement account restriction", "bank account residency rule"
+      ],
+      "negatives": []
+    },
+    "12_4_2": {
+      "desc": "Online payment limitations: mandate currency used for international payments",
+      "keywords": [
+        "currency restriction", "foreign exchange control", "currency mandate",
+        "payment currency regulation", "international transaction currency limitation"
+      ],
+      "negatives": []
+    },
+    "12_4_3": {
+      "desc": "Online payment limitations: deviate national standards",
+      "keywords": [
+        "payment standard deviation", "non-compliance with payment standard",
+        "inconsistent payment protocol", "national standard deviation"
+      ],
+      "negatives": []
+    },
+    "12_4_4": {
+      "desc": "Online payment limitations: licensing requirements",
+      "keywords": [
+        "payment service license", "payment gateway registration",
+        "payment institution authorization", "licensing of payment provider"
+      ],
+      "negatives": [
+        "telecom licensing", "e-commerce platform licensing"
+      ]
+    },
+    "12_4_5": {
+      "desc": "Online payment limitations: ceiling on the maximum amount",
+      "keywords": [
+        "transaction limit", "payment cap", "maximum payment amount",
+        "ceiling on online payment", "cross-border transaction cap"
+      ],
+      "negatives": []
+    },
+    "12_4_6": {
+      "desc": "Online payment limitations: mandate specific intermediaries",
+      "keywords": [
+        "payment intermediary requirement", "authorized intermediary",
+        "specific payment provider", "exclusive payment channel"
+      ],
+      "negatives": []
+    },
+    "12_4_7": {
+      "desc": "Online payment limitations: other restrictions",
+      "keywords": [
+        "online payment restriction", "digital transaction limitation",
+        "payment system barrier", "e-payment regulation"
+      ],
+      "negatives": []
+    },
+    "12_5": {
+      "desc": "Low De Minimis",
+      "keywords": [
+        "de minimis", "low import threshold", "customs duty threshold",
+        "low-value exemption", "import tax minimum threshold"
+      ],
+      "negatives": []
+    },
+    "12_6": {
+      "desc": "Imposition of custom duties on electronic transmission",
+      "keywords": [
+        "custom duty on digital goods", "electronic transmission tax",
+        "tariff on electronic commerce", "digital trade customs duty"
+      ],
+      "negatives": []
+    },
+    "12_7": {
+      "desc": "Domain name requirements",
+      "keywords": [
+        "domain name regulation", "domain registration", "internet domain rule",
+        "national domain requirement", "website domain compliance"
+      ],
+      "negatives": []
+    },
+    "12_8": {
+      "desc": "Local presence requirements for online service providers",
+      "keywords": [
+        "local presence", "local establishment", "domestic office requirement",
+        "physical presence rule", "representation in host country"
+      ],
+      "negatives": []
+    },
+    "12_9": {
+      "desc": "Lack of legal framework for online consumer protection",
+      "keywords": [
+        "consumer protection law", "online consumer rights", "digital consumer regulation",
+        "consumer complaint mechanism", "e-commerce dispute resolution"
+      ],
+      "negatives": []
+    },
+    "12_10": {
+      "desc": "Not in the United Nations Convention of Electronic Communications",
+      "keywords": [
+        "United Nations Convention on Electronic Communications", "UNCITRAL convention",
+        "electronic communication treaty", "digital communication agreement"
+      ],
+      "negatives": []
+    },
+    "12_11": {
+      "desc": "Not in the UNCITRAL Model Law on Electronic Commerce",
+      "keywords": [
+        "UNCITRAL Model Law on Electronic Commerce", "electronic commerce framework",
+        "e-commerce legal model", "UNCITRAL e-commerce law"
+      ],
+      "negatives": []
+    },
+    "12_12": {
+      "desc": "Not in the UNCITRAL Model Law on Electronic Signatures",
+      "keywords": [
+        "UNCITRAL Model Law on Electronic Signatures", "digital signature law",
+        "electronic authentication", "digital certificate regulation"
+      ],
+      "negatives": []
+    },
+    "12_13": {
+      "desc": "Not in the UNCITRAL Model Law on Electronic Transferable Records",
+      "keywords": [
+        "UNCITRAL Model Law on Electronic Transferable Records", "electronic transferable record",
+        "digital trade documentation", "paperless trade record law"
+      ],
+      "negatives": []
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pillar_name": "Intellectual Property Rights",
+  "pillar_id": 4,
+  "keywords": [
+    "intellectual property", "IPR", "patent", "copyright", "trademark",
+    "industrial design", "trade secret", "enforcement", "WIPO", "licensing"
+  ],
+  "indicators": {
+    "4_1": {
+      "desc": "Patent application issues",
+      "keywords": [
+        "patent application", "patent filing", "patent registration",
+        "patent procedure", "patent grant", "patent examination",
+        "patent office", "patent filing process", "patent law"
+      ],
+      "negatives": []
+    },
+    "4_2": {
+      "desc": "Patent enforcement issues: civil and administrative procedures and remedies; and provisional measures",
+      "keywords": [
+        "patent enforcement", "civil remedies", "injunction", "damages",
+        "administrative remedies", "patent dispute", "infringement remedy",
+        "provisional measures", "temporary injunction", "patent litigation"
+      ],
+      "negatives": []
+    },
+    "4_3": {
+      "desc": "Patent enforcement issues: others",
+      "keywords": [
+        "patent enforcement", "patent infringement", "patent appeal",
+        "patent prosecution", "patent invalidation", "patent opposition"
+      ],
+      "negatives": []
+    },
+    "4_4": {
+      "desc": "Not in the WIPO Patent Cooperation Treaty (PCT)",
+      "keywords": [
+        "WIPO Patent Cooperation Treaty", "PCT", "not a member of PCT",
+        "not signatory to PCT", "not part of WIPO PCT", "Patent Cooperation Treaty membership"
+      ],
+      "negatives": []
+    },
+    "4_5": {
+      "desc": "Lack of copyright framework and exceptions",
+      "keywords": [
+        "copyright law", "copyright framework", "copyright exceptions",
+        "copyright limitation", "no copyright law", "absence of copyright legislation",
+        "public domain exception", "fair use", "fair dealing"
+      ],
+      "negatives": []
+    },
+    "4_6": {
+      "desc": "Online copyright enforcement issues: civil and administrative procedures and remedies; and provisional measures",
+      "keywords": [
+        "online copyright enforcement", "copyright infringement",
+        "civil remedies", "injunction", "administrative remedies",
+        "provisional measures", "copyright takedown", "digital content protection",
+        "notice and takedown", "copyright violation"
+      ],
+      "negatives": []
+    },
+    "4_7": {
+      "desc": "Not in the WIPO Copyright Treaty (WCT)",
+      "keywords": [
+        "WIPO Copyright Treaty", "WCT", "not a member of WCT",
+        "not signatory to WCT", "Copyright Treaty membership"
+      ],
+      "negatives": []
+    },
+    "4_8": {
+      "desc": "Not in the WIPO Performances and Phonograms Treaty (WPPT)",
+      "keywords": [
+        "WIPO Performances and Phonograms Treaty", "WPPT",
+        "not a member of WPPT", "not signatory to WPPT",
+        "Performances and Phonograms Treaty membership"
+      ],
+      "negatives": []
+    },
+    "4_9": {
+      "desc": "Mandatory disclosure of trade secrets, such as source code and algorithms",
+      "keywords": [
+        "mandatory disclosure", "trade secret disclosure",
+        "source code disclosure", "algorithm disclosure",
+        "confidential information disclosure", "technology disclosure"
+      ],
+      "negatives": []
+    },
+    "4_10": {
+      "desc": "Lack of effective trade secrets legal framework",
+      "keywords": [
+        "trade secrets protection", "trade secret law",
+        "trade secret framework", "trade secret legislation",
+        "confidential information protection", "business secret law",
+        "unfair competition law", "no trade secret protection"
+      ],
+      "negatives": []
+    }
+  }
+}

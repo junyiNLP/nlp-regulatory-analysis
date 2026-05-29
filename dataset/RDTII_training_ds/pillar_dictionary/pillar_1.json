@@ -1,0 +1,39 @@
+{
+  "pillar_name": "Tariffs and Trade Defence",
+  "pillar_id": 1,
+  "keywords": [
+    "tariff", "customs duty", "import duty", "export duty", "trade defence",
+    "anti-dumping", "countervailing", "safeguard", "ICT goods", "WTO ITA"
+  ],
+  "indicators": {
+
+    "1_1": {
+      "desc": "Effectively applied tariffs on ICT goods (weighted average, %)",
+      "keywords": [
+        "applied tariff", "MFN rate", "customs duty rate", "weighted average tariff"
+      ],
+      "negatives": []
+    },
+    "1_2": {
+      "desc": "No duty-free tariff lines on ICT goods (intra-region, %)",
+      "keywords": [
+        "duty free", "zero tariff", "tariff-free", "0% customs"
+      ],
+      "negatives": []
+    },
+    "1_3": {
+      "desc": "Not in the WTO Information Technology Agreement (ITA I/II)",
+      "keywords": [
+        "ITA 1996", "ITA I", "ITA II", "WTO ITA", "Information Technology Agreement"
+      ],
+      "negatives": []
+    },
+    "1_4": {
+      "desc": "Trade defence measures on ICT goods",
+      "keywords": [
+        "anti-dumping duty", "countervailing duty", "safeguard measure", "trade remedy"
+      ],
+      "negatives": []
+    }
+  }
+}
